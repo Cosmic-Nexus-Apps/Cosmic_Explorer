@@ -1,0 +1,7 @@
+# Toate fișierele text folosesc LF, ca să nu difere bytes între Windows și Linux
+# și ca hash-urile copiilor din aplicații să rămână identice.
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.zip binary
