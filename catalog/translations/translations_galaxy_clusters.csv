@@ -1,30 +1,46 @@
 UID,Name_EN,Name_RO,Name_DE,Name_FR,Name_ES,Name_IT,Name_PT,Name_PL,Name_NL
 GC1,Virgo Cluster,Roiul Virgo,Virgo-Haufen,Amas Virgo,Cúmulo de Virgo,Ammasso Virgo,Aglomerado Virgo,Gromada Virgo,Virgo-cluster
-GC2,Virgo East Region,Virgo East Region,Virgo East Region,Virgo East Region,Virgo East Region,Virgo East Region,Virgo East Region,Virgo East Region,Virgo East Region
+GC2,Virgo East Region,Regiunea estică a Fecioarei,Östliche Virgo-Region,Région est de la Vierge,Región este de Virgo,Regione est della Vergine,Região leste de Virgem,Wschodni region Panny,Oostelijk Virgo-gebied
 GC3,Fornax Cluster,Roiul Fornax,Fornax-Haufen,Amas Fornax,Cúmulo de Fornax,Ammasso Fornax,Aglomerado Fornax,Gromada Fornax,Fornax-cluster
-GC4,Virgo C,Virgo C,Virgo C,Virgo C,Virgo C,Virgo C,Virgo C,Virgo C,Virgo C
-GC5,Bode's Group,Bode's Group,Bode's Group,Bode's Group,Bode's Group,Bode's Group,Bode's Group,Bode's Group,Bode's Group
-GC6,Virgo B,Virgo B,Virgo B,Virgo B,Virgo B,Virgo B,Virgo B,Virgo B,Virgo B
-GC7,Leo I Group,Leo I Group,Leo I Group,Leo I Group,Leo I Group,Leo I Group,Leo I Group,Leo I Group,Leo I Group
+GC5,Bode's Group,Grupul lui Bode,Bodes Gruppe,Groupe de Bode,Grupo de Bode,Gruppo di Bode,Grupo de Bode,Grupa Bodego,Groep van Bode
+GC7,Leo I Group,Grupul Leo I,Leo-I-Gruppe,Groupe Leo I,Grupo Leo I,Gruppo Leo I,Grupo Leo I,Grupa Leo I,Leo I-groep
 GC8,Coma Cluster,Roiul Coma,Coma-Haufen,Amas Coma,Cúmulo de Coma,Ammasso Coma,Aglomerado Coma,Gromada Coma,Coma-cluster
-GC9,Markarian's Chain,Markarian's Chain,Markarian's Chain,Markarian's Chain,Markarian's Chain,Markarian's Chain,Markarian's Chain,Markarian's Chain,Markarian's Chain
+GC9,Markarian's Chain,Lanțul lui Markarian,Markarians Kette,Chaîne de Markarian,Cadena de Markarian,Catena di Markarian,Cadeia de Markarian,Łańcuch Markariana,Keten van Markarian
 GC10,Hercules Cluster,Roiul Hercules,Hercules-Haufen,Amas Hercules,Cúmulo de Hercules,Ammasso Hercules,Aglomerado Hercules,Gromada Hercules,Hercules-cluster
+GC11,NGC 5846 Group,Grupul NGC 5846,NGC 5846-Gruppe,Groupe de NGC 5846,Grupo NGC 5846,Gruppo NGC 5846,Grupo NGC 5846,Grupa NGC 5846,NGC 5846-groep
 GC12,Centaurus Cluster,Roiul Centaurus,Centaurus-Haufen,Amas Centaurus,Cúmulo de Centaurus,Ammasso Centaurus,Aglomerado Centaurus,Gromada Centaurus,Centaurus-cluster
 GC13,Antlia Cluster,Roiul Antlia,Antlia-Haufen,Amas d'Antlia,Cúmulo de Antlia,Ammasso Antlia,Aglomerado Antlia,Gromada Antlia,Antlia-cluster
 GC14,Hydra Cluster,Roiul Hydra,Hydra-Haufen,Amas Hydra,Cúmulo de Hydra,Ammasso Hydra,Aglomerado Hydra,Gromada Hydra,Hydra-cluster
 GC15,Pegasus I Cluster,Roiul Pegasus I,Pegasus I-Haufen,Amas Pegasus I,Cúmulo de Pegasus I,Ammasso Pegasus I,Aglomerado Pegasus I,Gromada Pegasus I,Pegasus I-cluster
 GC16,Leo Cluster,Roiul Leo,Leo-Haufen,Amas Leo,Cúmulo de Leo,Ammasso Leo,Aglomerado Leo,Gromada Leo,Leo-cluster
 GC17,Perseus Cluster,Roiul Perseus,Perseus-Haufen,Amas Perseus,Cúmulo de Perseus,Ammasso Perseus,Aglomerado Perseus,Gromada Perseus,Perseus-cluster
-GC18,Bode+Cigar Pair,Bode+Cigar Pair,Bode+Cigar Pair,Bode+Cigar Pair,Bode+Cigar Pair,Bode+Cigar Pair,Bode+Cigar Pair,Bode+Cigar Pair,Bode+Cigar Pair
-GC19,Pinwheel Interacting Pair,Pinwheel Interacting Pair,Pinwheel Interacting Pair,Pinwheel Interacting Pair,Pinwheel Interacting Pair,Pinwheel Interacting Pair,Pinwheel Interacting Pair,Pinwheel Interacting Pair,Pinwheel Interacting Pair
-GC20,Leo Triplet,Leo Triplet,Leo Triplet,Leo Triplet,Leo Triplet,Leo Triplet,Leo Triplet,Leo Triplet,Leo Triplet
-GC21,Leo I Core,Leo I Core,Leo I Core,Leo I Core,Leo I Core,Leo I Core,Leo I Core,Leo I Core,Leo I Core
-GC24,Markarian's Chain Core,Markarian's Chain Core,Markarian's Chain Core,Markarian's Chain Core,Markarian's Chain Core,Markarian's Chain Core,Markarian's Chain Core,Markarian's Chain Core,Markarian's Chain Core
-GC26,Leo Main Pair,Leo Main Pair,Leo Main Pair,Leo Main Pair,Leo Main Pair,Leo Main Pair,Leo Main Pair,Leo Main Pair,Leo Main Pair
-GC31,Leo I Triplet,Leo I Triplet,Leo I Triplet,Leo I Triplet,Leo I Triplet,Leo I Triplet,Leo I Triplet,Leo I Triplet,Leo I Triplet
-GC42,Robert's Quartet,Robert's Quartet,Robert's Quartet,Robert's Quartet,Robert's Quartet,Robert's Quartet,Robert's Quartet,Robert's Quartet,Robert's Quartet
-GC43,Stephan's Quintet,Stephan's Quintet,Stephan's Quintet,Stephan's Quintet,Stephan's Quintet,Stephan's Quintet,Stephan's Quintet,Stephan's Quintet,Stephan's Quintet
-GC44,Copeland's Septet,Copeland's Septet,Copeland's Septet,Copeland's Septet,Copeland's Septet,Copeland's Septet,Copeland's Septet,Copeland's Septet,Copeland's Septet
-GC46,The Box,The Box,The Box,The Box,The Box,The Box,The Box,The Box,The Box
-GC48,Wild's Triplet,Wild's Triplet,Wild's Triplet,Wild's Triplet,Wild's Triplet,Wild's Triplet,Wild's Triplet,Wild's Triplet,Wild's Triplet
-GC51,Seyfert's Sextet,Seyfert's Sextet,Seyfert's Sextet,Seyfert's Sextet,Seyfert's Sextet,Seyfert's Sextet,Seyfert's Sextet,Seyfert's Sextet,Seyfert's Sextet
+GC18,Bode+Cigar Pair,Perechea Bode + Cigar,Bode-Cigar-Paar,Paire Bode-Cigare,Pareja Bode-Cigarro,Coppia Bode-Sigaro,Par Bode-Charuto,Para Bode-Cygaro,Bode-Sigaar-paar
+GC19,Pinwheel Interacting Pair,Perechea interactivă Pinwheel,Pinwheel-Wechselwirkungspaar,Paire en interaction Pinwheel,Pareja en interacción Pinwheel,Coppia interagente Pinwheel,Par em interação Pinwheel,Oddziałująca para Pinwheel,Pinwheel-wisselwerkend paar
+GC20,Leo Triplet,Tripletul Leului,Leo-Triplett,Triplet du Lion,Triplete de Leo,Tripletto del Leone,Triplete de Leão,Tryplet Lwa,Leeuwtriplet
+GC22,NGC 1023 Group,Grupul NGC 1023,NGC 1023-Gruppe,Groupe de NGC 1023,Grupo NGC 1023,Gruppo NGC 1023,Grupo NGC 1023,Grupa NGC 1023,NGC 1023-groep
+GC23,NGC 708 Group,Grupul NGC 708,NGC 708-Gruppe,Groupe de NGC 708,Grupo NGC 708,Gruppo NGC 708,Grupo NGC 708,Grupa NGC 708,NGC 708-groep
+GC24,Markarian's Chain Core,Nucleul Lanțului lui Markarian,Kern von Markarians Kette,Cœur de la chaîne de Markarian,Núcleo de la Cadena de Markarian,Nucleo della Catena di Markarian,Núcleo da Cadeia de Markarian,Jądro Łańcucha Markariana,Kern van de Keten van Markarian
+GC25,NGC 1060 Group,Grupul NGC 1060,NGC 1060-Gruppe,Groupe de NGC 1060,Grupo NGC 1060,Gruppo NGC 1060,Grupo NGC 1060,Grupa NGC 1060,NGC 1060-groep
+GC26,Leo Main Pair,Perechea principală a Leului,Leo-Hauptpaar,Paire principale du Lion,Pareja principal de Leo,Coppia principale del Leone,Par principal de Leão,Główna para Lwa,Leo-hoofdpaar
+GC27,NGC 3190 Group,Grupul NGC 3190,NGC 3190-Gruppe,Groupe de NGC 3190,Grupo NGC 3190,Gruppo NGC 3190,Grupo NGC 3190,Grupa NGC 3190,NGC 3190-groep
+GC28,NGC 871 Group,Grupul NGC 871,NGC 871-Gruppe,Groupe de NGC 871,Grupo NGC 871,Gruppo NGC 871,Grupo NGC 871,Grupa NGC 871,NGC 871-groep
+GC29,NGC 1214 Group,Grupul NGC 1214,NGC 1214-Gruppe,Groupe de NGC 1214,Grupo NGC 1214,Gruppo NGC 1214,Grupo NGC 1214,Grupa NGC 1214,NGC 1214-groep
+GC30,NGC 7837 Group,Grupul NGC 7837,NGC 7837-Gruppe,Groupe de NGC 7837,Grupo NGC 7837,Gruppo NGC 7837,Grupo NGC 7837,Grupa NGC 7837,NGC 7837-groep
+GC31,Leo I Triplet,Tripletul Leo I,Leo-I-Triplett,Triplet Leo I,Triplete Leo I,Tripletto Leo I,Triplete Leo I,Tryplet Leo I,Leo I-triplet
+GC32,NGC 848 Group,Grupul NGC 848,NGC 848-Gruppe,Groupe de NGC 848,Grupo NGC 848,Gruppo NGC 848,Grupo NGC 848,Grupa NGC 848,NGC 848-groep
+GC33,NGC 536 Group,Grupul NGC 536,NGC 536-Gruppe,Groupe de NGC 536,Grupo NGC 536,Gruppo NGC 536,Grupo NGC 536,Grupa NGC 536,NGC 536-groep
+GC34,NGC 383 Group,Grupul NGC 383,NGC 383-Gruppe,Groupe de NGC 383,Grupo NGC 383,Gruppo NGC 383,Grupo NGC 383,Grupa NGC 383,NGC 383-groep
+GC35,NGC 5353 Group,Grupul NGC 5353,NGC 5353-Gruppe,Groupe de NGC 5353,Grupo NGC 5353,Gruppo NGC 5353,Grupo NGC 5353,Grupa NGC 5353,NGC 5353-groep
+GC36,NGC 1199 Group,Grupul NGC 1199,NGC 1199-Gruppe,Groupe de NGC 1199,Grupo NGC 1199,Gruppo NGC 1199,Grupo NGC 1199,Grupa NGC 1199,NGC 1199-groep
+GC37,NGC 2300 Group,Grupul NGC 2300,NGC 2300-Gruppe,Groupe de NGC 2300,Grupo NGC 2300,Gruppo NGC 2300,Grupo NGC 2300,Grupa NGC 2300,NGC 2300-groep
+GC38,NGC 6978 Group,Grupul NGC 6978,NGC 6978-Gruppe,Groupe de NGC 6978,Grupo NGC 6978,Gruppo NGC 6978,Grupo NGC 6978,Grupa NGC 6978,NGC 6978-groep
+GC39,NGC 7172 Group,Grupul NGC 7172,NGC 7172-Gruppe,Groupe de NGC 7172,Grupo NGC 7172,Gruppo NGC 7172,Grupo NGC 7172,Grupa NGC 7172,NGC 7172-groep
+GC40,NGC 3651 Group,Grupul NGC 3651,NGC 3651-Gruppe,Groupe de NGC 3651,Grupo NGC 3651,Gruppo NGC 3651,Grupo NGC 3651,Grupa NGC 3651,NGC 3651-groep
+GC41,NGC 192 Group,Grupul NGC 192,NGC 192-Gruppe,Groupe de NGC 192,Grupo NGC 192,Gruppo NGC 192,Grupo NGC 192,Grupa NGC 192,NGC 192-groep
+GC42,Robert's Quartet,Cvartetul lui Robert,Roberts Quartett,Quatuor de Robert,Cuarteto de Robert,Quartetto di Robert,Quarteto de Robert,Kwartet Roberta,Kwartet van Robert
+GC45,NGC 4017 Group,Grupul NGC 4017,NGC 4017-Gruppe,Groupe de NGC 4017,Grupo NGC 4017,Gruppo NGC 4017,Grupo NGC 4017,Grupa NGC 4017,NGC 4017-groep
+GC47,NGC 4761 Group,Grupul NGC 4761,NGC 4761-Gruppe,Groupe de NGC 4761,Grupo NGC 4761,Gruppo NGC 4761,Grupo NGC 4761,Grupa NGC 4761,NGC 4761-groep
+GC48,Wild's Triplet,Tripletul lui Wild,Wilds Triplett,Triplet de Wild,Triplete de Wild,Tripletto di Wild,Triplete de Wild,Tryplet Wilda,Triplet van Wild
+GC49,NGC 2783 Group,Grupul NGC 2783,NGC 2783-Gruppe,Groupe de NGC 2783,Grupo NGC 2783,Gruppo NGC 2783,Grupo NGC 2783,Grupa NGC 2783,NGC 2783-groep
+GC52,NGC 454 Group,Grupul NGC 454,NGC 454-Gruppe,Groupe de NGC 454,Grupo NGC 454,Gruppo NGC 454,Grupo NGC 454,Grupa NGC 454,NGC 454-groep
+GC53,NGC 1741 Group,Grupul NGC 1741,NGC 1741-Gruppe,Groupe de NGC 1741,Grupo NGC 1741,Gruppo NGC 1741,Grupo NGC 1741,Grupa NGC 1741,NGC 1741-groep

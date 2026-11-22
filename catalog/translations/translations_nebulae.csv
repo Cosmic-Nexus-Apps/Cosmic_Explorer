@@ -5,6 +5,7 @@ N7,Meissa Ring,Inelul Meissa,Meissa-Ring,Anneau Meissa,Anillo de Meissa,Anello M
 N8,Corona Australis Molecular Cloud,Norul molecular Corona Australis,Corona Australis-Molekularwolke,Nuage moléculaire Corona Australis,Nube molecular de Corona Australis,Nube molecolare Corona Australis,Nuvem molecular Corona Australis,Obłok molekularny Corona Australis,Corona Australis-moleculaire wolk
 N10,Coalsack Nebula,Nebuloasa Sacul de Cărbuni,Kacksack-Nebel,Nébuleuse Sac de Charbon,Nebulosa de Saco de Carbón,Nebulosa Sacco di Carbone,Nebulosa Saco de Carvão,Mgławica Worek Węgla,Koolzak-nevel
 N13,Pipe Nebula,Nebuloasa Pipe,Pipe-Nebel,Nébuleuse Pipe,Nebulosa de Pipe,Nebulosa Pipe,Nebulosa Pipe,Mgławica Pipe,Pipe-nevel
+N16,Christmas Tree Cluster,Roiul Pomul de Crăciun,Weihnachtsbaum-Haufen,Amas de l'Arbre de Noël,Cúmulo del Árbol de Navidad,Ammasso dell'Albero di Natale,Aglomerado da Árvore de Natal,Gromada Choinki,Kerstboomcluster
 N31,Spaghetti Nebula,Nebuloasa Spaghete,Spaghetti-Nebel,Nébuleuse Spaghetti,Nebulosa de Espagueti,Nebulosa Spaghetti,Nebulosa Espaguete,Mgławica Spaghetti,Spaghetti-nevel
 N36,Question Mark Nebula,Nebuloasa Question Mark,Question Mark-Nebel,Nébuleuse Question Mark,Nebulosa de Question Mark,Nebulosa Question Mark,Nebulosa Question Mark,Mgławica Question Mark,Question Mark-nevel
 N47,California Nebula,Nebuloasa California,California-Nebel,Nébuleuse Californie,Nebulosa de California,Nebulosa California,Nebulosa Califórnia,Mgławica Kalifornia,Californië-nevel
@@ -14,7 +15,6 @@ N60,Clamshell Nebula,Nebuloasa Clamshell,Clamshell-Nebel,Nébuleuse Clamshell,Ne
 N73,Flying Bat Nebula,Nebuloasa Flying Bat,Flying Bat-Nebel,Nébuleuse Flying Bat,Nebulosa de Flying Bat,Nebulosa Flying Bat,Nebulosa Flying Bat,Mgławica Flying Bat,Flying Bat-nevel
 N75,Carina Nebula,Nebuloasa Carina,Carina-Nebel,Nébuleuse Carina,Nebulosa de Carina,Nebulosa Carina,Nebulosa Carina,Mgławica Carina,Carina-nevel
 N85,Seagull Nebula,Nebuloasa Seagull,Seagull-Nebel,Nébuleuse Seagull,Nebulosa de Seagull,Nebulosa Seagull,Nebulosa Seagull,Mgławica Seagull,Seagull-nevel
-N89,Fighting Dragons of Ara,Fighting Dragons of Ara,Fighting Dragons of Ara,Fighting Dragons of Ara,Fighting Dragons of Ara,Fighting Dragons of Ara,Fighting Dragons of Ara,Fighting Dragons of Ara,Fighting Dragons of Ara
 N90,Heart Nebula,Nebuloasa Inima,Herz-Nebel,Nébuleuse Cœur,Nebulosa de Corazón,Nebulosa Cuore,Nebulosa Coração,Mgławica Serce,Hart-nevel
 N103,Running Chicken Nebula,Nebuloasa Running Chicken,Running Chicken-Nebel,Nébuleuse Running Chicken,Nebulosa de Running Chicken,Nebulosa Running Chicken,Nebulosa Running Chicken,Mgławica Running Chicken,Running Chicken-nevel
 N124,North America Nebula,Nebuloasa America de Nord,Nordamerika-Nebel,Nébuleuse d'Amérique du Nord,Nebulosa de Norteamérica,Nebulosa Nord America,Nebulosa América do Norte,Mgławica Ameryka Północna,Noord-Amerika-nevel
@@ -24,14 +24,11 @@ N145,Soul Nebula,Nebuloasa Sufletul,Seelen-Nebel,Nébuleuse Âme,Nebulosa de Alm
 N148,Lion Nebula,Nebuloasa Lion,Lion-Nebel,Nébuleuse Lion,Nebulosa de Lion,Nebulosa Lion,Nebulosa Lion,Mgławica Lion,Lion-nevel
 N152,Lobster Claw Nebula,Nebuloasa Lobster Claw,Lobster Claw-Nebel,Nébuleuse Lobster Claw,Nebulosa de Lobster Claw,Nebulosa Lobster Claw,Nebulosa Lobster Claw,Mgławica Lobster Claw,Lobster Claw-nevel
 N153,Rosette Nebula,Nebuloasa Rozeta,Rosetten-Nebel,Nébuleuse Rosette,Nebulosa de Roseta,Nebulosa Rosetta,Nebulosa Roseta,Mgławica Rozeta,Roset-nevel
-N212,Ghost of Cassiopeia,Ghost of Cassiopeia,Ghost of Cassiopeia,Ghost of Cassiopeia,Ghost of Cassiopeia,Ghost of Cassiopeia,Ghost of Cassiopeia,Ghost of Cassiopeia,Ghost of Cassiopeia
-N219,Dark Doodad,Dark Doodad,Dark Doodad,Dark Doodad,Dark Doodad,Dark Doodad,Dark Doodad,Dark Doodad,Dark Doodad
 N220,Rho Ophiuchi Nebula,Nebuloasa Rho Ophiuchi,Rho Ophiuchi-Nebel,Nébuleuse Rho Ophiuchi,Nebulosa de Rho Ophiuchi,Nebulosa Rho Ophiuchi,Nebulosa Rho Ophiuchi,Mgławica Rho Ophiuchi,Rho Ophiuchi-nevel
 N236,Gecko Nebula,Nebuloasa Gecko,Gecko-Nebel,Nébuleuse Gecko,Nebulosa de Gecko,Nebulosa Gecko,Nebulosa Gecko,Mgławica Gecko,Gecko-nevel
 N243,Eagle Nebula,Nebuloasa Vulturul,Adler-Nebel,Nébuleuse d'Aigle,Nebulosa de Águila,Nebulosa Aquila,Nebulosa Águia,Mgławica Orzeł,Adelaar-nevel
 N246,Orion Nebula,Nebuloasa Orion,Orion-Nebel,Nébuleuse d'Orion,Nebulosa de Orión,Nebulosa Orione,Nebulosa Orion,Mgławica Orion,Orion-nevel
 N254,Prawn Nebula,Nebuloasa Prawn,Prawn-Nebel,Nébuleuse Prawn,Nebulosa de Prawn,Nebulosa Prawn,Nebulosa Prawn,Mgławica Prawn,Prawn-nevel
-N267,Pickering's Triangle,Pickering's Triangle,Pickering's Triangle,Pickering's Triangle,Pickering's Triangle,Pickering's Triangle,Pickering's Triangle,Pickering's Triangle,Pickering's Triangle
 N275,Cosmic Bat Nebula,Nebuloasa Cosmic Bat,Cosmic Bat-Nebel,Nébuleuse Cosmic Bat,Nebulosa de Cosmic Bat,Nebulosa Cosmic Bat,Nebulosa Cosmic Bat,Mgławica Cosmic Bat,Cosmic Bat-nevel
 N285,Tadpole Nebula,Nebuloasa Tadpole,Tadpole-Nebel,Nébuleuse Tadpole,Nebulosa de Tadpole,Nebulosa Tadpole,Nebulosa Tadpole,Mgławica Tadpole,Tadpole-nevel
 N299,Barnard's E Nebula,Nebuloasa Barnard's E,Barnard's E-Nebel,Nébuleuse Barnard's E,Nebulosa de Barnard's E,Nebulosa Barnard's E,Nebulosa Barnard's E,Mgławica Barnard's E,Barnard's E-nevel
@@ -56,26 +53,26 @@ N555,Merope Nebula,Nebuloasa Merope,Merope-Nebel,Nébuleuse Merope,Nebulosa de M
 N588,Seahorse Nebula,Nebuloasa Seahorse,Seahorse-Nebel,Nébuleuse Seahorse,Nebulosa de Seahorse,Nebulosa Seahorse,Nebulosa Seahorse,Mgławica Seahorse,Seahorse-nevel
 N634,Pelican Nebula,Nebuloasa Pelicanul,Pelikan-Nebel,Nébuleuse Pélican,Nebulosa de Pelícano,Nebulosa Pelicano,Nebulosa Pelicano,Mgławica Pelikan,Pelikaan-nevel
 N658,Flame Nebula,Nebuloasa Flacăra,Flammen-Nebel,Nébuleuse Flamme,Nebulosa de Flama,Nebulosa Fiamma,Nebulosa Chama,Mgławica Płomień,Vlam-nevel
+N676,Wizard Nebula,Nebuloasa Vrăjitorului,Zauberer-Nebel,Nébuleuse du Sorcier,Nebulosa del Mago,Nebulosa del Mago,Nebulosa do Mago,Mgławica Czarodzieja,Tovenaarnevel
 N695,Snake Nebula,Nebuloasa Snake,Snake-Nebel,Nébuleuse Snake,Nebulosa de Snake,Nebulosa Snake,Nebulosa Snake,Mgławica Snake,Snake-nevel
 N700,Trifid Nebula,Nebuloasa Trifid,Trifid-Nebel,Nébuleuse Trifid,Nebulosa de Trifid,Nebulosa Trifid,Nebulosa Trifid,Mgławica Trifid,Trifid-nevel
 N728,Fish Head Nebula,Nebuloasa Fish Head,Fish Head-Nebel,Nébuleuse Fish Head,Nebulosa de Fish Head,Nebulosa Fish Head,Nebulosa Fish Head,Mgławica Fish Head,Fish Head-nevel
 N730,Bubble Nebula,Nebuloasa Bula,Blasen-Nebel,Nébuleuse Bulle,Nebulosa de Burbuja,Nebulosa Bolla,Nebulosa Bolha,Mgławica Bąbel,Bel-nevel
 N770,Tarantula Nebula,Nebuloasa Tarantula,Tarantula-Nebel,Nébuleuse Tarantula,Nebulosa de Tarantula,Nebulosa Tarantula,Nebulosa Tarantula,Mgławica Tarantula,Tarantula-nevel
 N783,Maia Nebula,Nebuloasa Maia,Maia-Nebel,Nébuleuse Maia,Nebulosa de Maia,Nebulosa Maia,Nebulosa Maia,Mgławica Maia,Maia-nevel
+N888,omi Per Cloud,Norul omi Persei,omi-Per-Wolke,Nuage d'omi Persei,Nube de omi Persei,Nube di omi Persei,Nuvem de omi Persei,Obłok omi Persei,omi-Per-wolk
 N921,Gabriela Mistral Nebula,Nebuloasa Gabriela Mistral,Gabriela Mistral-Nebel,Nébuleuse Gabriela Mistral,Nebulosa de Gabriela Mistral,Nebulosa Gabriela Mistral,Nebulosa Gabriela Mistral,Mgławica Gabriela Mistral,Gabriela Mistral-nevel
 N946,Running Man Nebula,Nebuloasa Running Man,Running Man-Nebel,Nébuleuse Running Man,Nebulosa de Running Man,Nebulosa Running Man,Nebulosa Running Man,Mgławica Running Man,Running Man-nevel
 N947,Thor's Helmet,Casca lui Thor,Thors Helm,Casque de Thor,Casco de Thor,Elmo di Thor,Capacete de Thor,Hełm Thora,Thors helm
 N965,Helix Nebula,Nebuloasa Helix,Helix-Nebel,Nébuleuse Hélice,Nebulosa de Hélice,Nebulosa Elica,Nebulosa Hélice,Mgławica Ślimak,Helix-nevel
 N1026,Crescent Nebula,Nebuloasa Crescent,Crescent-Nebel,Nébuleuse Crescent,Nebulosa de Crescent,Nebulosa Crescent,Nebulosa Crescent,Mgławica Crescent,Crescent-nevel
 N1058,Iris Nebula,Nebuloasa Iris,Iris-Nebel,Nébuleuse d'Iris,Nebulosa de Iris,Nebulosa Iris,Nebulosa Iris,Mgławica Iris,Iris-nevel
-N1138,Lower Sword,Lower Sword,Lower Sword,Lower Sword,Lower Sword,Lower Sword,Lower Sword,Lower Sword,Lower Sword
 N1156,Pencil Nebula,Nebuloasa Pencil,Pencil-Nebel,Nébuleuse Pencil,Nebulosa de Pencil,Nebulosa Pencil,Nebulosa Pencil,Mgławica Pencil,Pencil-nevel
 N1167,Ghost Nebula,Nebuloasa Ghost,Ghost-Nebel,Nébuleuse Ghost,Nebulosa de Ghost,Nebulosa Ghost,Nebulosa Ghost,Mgławica Ghost,Ghost-nevel
 N1174,De Mairan's Nebula,Nebuloasa lui De Mairan,De Mairan-Nebel,Nébuleuse de De Mairan,Nebulosa de De Mairan,Nebulosa di De Mairan,Nebulosa de De Mairan,Mgławica De Mairana,De Mairan-nevel
 N1219,Medusa Nebula,Nebuloasa Meduza,Medusa-Nebel,Nébuleuse Méduse,Nebulosa de Medusa,Nebulosa Medusa,Nebulosa Medusa,Mgławica Meduza,Medusa-nevel
 N1253,Cocoon Nebula,Nebuloasa Cocoon,Cocoon-Nebel,Nébuleuse Cocoon,Nebulosa de Cocoon,Nebulosa Cocoon,Nebulosa Cocoon,Mgławica Cocoon,Cocoon-nevel
 N1256,Casper the Friendly Ghost Nebula,Nebuloasa Casper the Friendly Ghost,Casper the Friendly Ghost-Nebel,Nébuleuse Casper the Friendly Ghost,Nebulosa de Casper the Friendly Ghost,Nebulosa Casper the Friendly Ghost,Nebulosa Casper the Friendly Ghost,Mgławica Casper the Friendly Ghost,Casper the Friendly Ghost-nevel
-N1281,Ghosts of Cassiopeia,Ghosts of Cassiopeia,Ghosts of Cassiopeia,Ghosts of Cassiopeia,Ghosts of Cassiopeia,Ghosts of Cassiopeia,Ghosts of Cassiopeia,Ghosts of Cassiopeia,Ghosts of Cassiopeia
 N1307,Shrimp Nebula,Nebuloasa Shrimp,Shrimp-Nebel,Nébuleuse Shrimp,Nebulosa de Shrimp,Nebulosa Shrimp,Nebulosa Shrimp,Mgławica Shrimp,Shrimp-nevel
 N1415,Northern Lagoon Nebula,Nebuloasa Northern Lagoon,Northern Lagoon-Nebel,Nébuleuse Northern Lagoon,Nebulosa de Northern Lagoon,Nebulosa Northern Lagoon,Nebulosa Northern Lagoon,Mgławica Northern Lagoon,Northern Lagoon-nevel
 N1451,Ink Spot Nebula,Nebuloasa Ink Spot,Ink Spot-Nebel,Nébuleuse d'Ink Spot,Nebulosa de Ink Spot,Nebulosa Ink Spot,Nebulosa Ink Spot,Mgławica Ink Spot,Ink Spot-nevel
@@ -85,7 +82,6 @@ N1733,Toby Jug Nebula,Nebuloasa Toby Jug,Toby Jug-Nebel,Nébuleuse Toby Jug,Nebu
 N1756,Headphone Nebula,Nebuloasa Headphone,Headphone-Nebel,Nébuleuse Headphone,Nebulosa de Headphone,Nebulosa Headphone,Nebulosa Headphone,Mgławica Headphone,Headphone-nevel
 N1757,Horsehead Nebula,Nebuloasa Horsehead,Horsehead-Nebel,Nébuleuse Horsehead,Nebulosa de Horsehead,Nebulosa Horsehead,Nebulosa Horsehead,Mgławica Horsehead,Horsehead-nevel
 N1758,Crab Nebula,Nebuloasa Crabul,Krebs-Nebel,Nébuleuse Crabe,Nebulosa de Cangrejo,Nebulosa Granchio,Nebulosa Caranguejo,Mgławica Krab,Krab-nevel
-N1794,Dragon's Egg,Dragon's Egg,Dragon's Egg,Dragon's Egg,Dragon's Egg,Dragon's Egg,Dragon's Egg,Dragon's Egg,Dragon's Egg
 N1796,Keyhole Nebula,Nebuloasa Keyhole,Keyhole-Nebel,Nébuleuse Keyhole,Nebulosa de Keyhole,Nebulosa Keyhole,Nebulosa Keyhole,Mgławica Keyhole,Keyhole-nevel
 N1883,Cat's Eye Nebula,Nebuloasa Ochi de Pisică,Katzenaugen-Nebel,Nébuleuse Œil de chat,Nebulosa de Ojo de Gato,Nebulosa Occhio di Gatto,Nebulosa Olho de Gato,Mgławica Kocie Oko,Kattenoog-nevel
 N1917,Skull Nebula,Nebuloasa Skull,Skull-Nebel,Nébuleuse Skull,Nebulosa de Skull,Nebulosa Skull,Nebulosa Skull,Mgławica Skull,Skull-nevel
@@ -93,7 +89,6 @@ N2096,Owl Nebula,Nebuloasa Bufnița,Eulen-Nebel,Nébuleuse Hibou,Nebulosa de Bú
 N2175,Crystal Ball Nebula,Nebuloasa Crystal Ball,Crystal Ball-Nebel,Nébuleuse Crystal Ball,Nebulosa de Crystal Ball,Nebulosa Crystal Ball,Nebulosa Crystal Ball,Mgławica Crystal Ball,Crystal Ball-nevel
 N2180,Little Dumbbell Nebula,Nebuloasa Little Dumbbell,Little Dumbbell-Nebel,Nébuleuse Little Dumbbell,Nebulosa de Little Dumbbell,Nebulosa Little Dumbbell,Nebulosa Little Dumbbell,Mgławica Little Dumbbell,Little Dumbbell-nevel
 N2230,Butterfly Nebula,Nebuloasa Fluturele,Schmetterling-Nebel,Nébuleuse Papillon,Nebulosa de Mariposa,Nebulosa Farfalla,Nebulosa Borboleta,Mgławica Motyl,Vlinder-nevel
-N2232,Celestial Snow Angel,Celestial Snow Angel,Celestial Snow Angel,Celestial Snow Angel,Celestial Snow Angel,Celestial Snow Angel,Celestial Snow Angel,Celestial Snow Angel,Celestial Snow Angel
 N2233,Box Nebula,Nebuloasa Box,Box-Nebel,Nébuleuse Box,Nebulosa de Box,Nebulosa Box,Nebulosa Box,Mgławica Box,Box-nevel
 N2311,Blue Snowball Nebula,Nebuloasa Bulgărele Albastru de Zăpadă,Blauer Schneeball-Nebel,Nébuleuse Boule de neige bleue,Nebulosa de Bola de Nieve Azul,Nebulosa Palla di Neve Blu,Nebulosa Bola de Neve Azul,Mgławica Niebieska Śnieżka,Blauwe Sneeuwbal-nevel
 N2316,Hubble's Nebula,Nebuloasa lui Hubble,Hubble-Nebel,Nébuleuse de Hubble,Nebulosa de Hubble,Nebulosa di Hubble,Nebulosa de Hubble,Mgławica Hubble,Hubble-nevel
@@ -104,14 +99,12 @@ N2427,Fetus Nebula,Nebuloasa Fetus,Fetus-Nebel,Nébuleuse Fetus,Nebulosa de Fetu
 N2429,Bow-Tie Nebula,Nebuloasa Bow-Tie,Bow-Tie-Nebel,Nébuleuse Bow-Tie,Nebulosa de Bow-Tie,Nebulosa Bow-Tie,Nebulosa Bow-Tie,Mgławica Bow-Tie,Bow-Tie-nevel
 N2489,Southern Ring Nebula,Nebuloasa Southern Ring,Southern Ring-Nebel,Nébuleuse Southern Ring,Nebulosa de Southern Ring,Nebulosa Southern Ring,Nebulosa Southern Ring,Mgławica Southern Ring,Southern Ring-nevel
 N2490,Red Spider Nebula,Nebuloasa Red Spider,Red Spider-Nebel,Nébuleuse Red Spider,Nebulosa de Red Spider,Nebulosa Red Spider,Nebulosa Red Spider,Mgławica Red Spider,Red Spider-nevel
-N2505,Ghost of Jupiter,Ghost of Jupiter,Ghost of Jupiter,Ghost of Jupiter,Ghost of Jupiter,Ghost of Jupiter,Ghost of Jupiter,Ghost of Jupiter,Ghost of Jupiter
 N2506,Saturn Nebula,Nebuloasa Saturn,Saturn-Nebel,Nébuleuse Saturne,Nebulosa de Saturno,Nebulosa Saturno,Nebulosa Saturno,Mgławica Saturn,Saturnus-nevel
 N2509,Oyster Nebula,Nebuloasa Oyster,Oyster-Nebel,Nébuleuse d'Oyster,Nebulosa de Oyster,Nebulosa Oyster,Nebulosa Oyster,Mgławica Oyster,Oyster-nevel
 N2517,Little Ghost Nebula,Nebuloasa Micul Fantomă,Kleine Geist-Nebel,Nébuleuse Petit Fantôme,Nebulosa de Pequeño Fantasma,Nebulosa Piccolo Fantasma,Nebulosa Pequeno Fantasma,Mgławica Mały Duch,Kleine Geest-nevel
 N2526,Blue Flash Nebula,Nebuloasa Blue Flash,Blue Flash-Nebel,Nébuleuse Blue Flash,Nebulosa de Blue Flash,Nebulosa Blue Flash,Nebulosa Blue Flash,Mgławica Blue Flash,Blue Flash-nevel
 N2528,Eskimo Nebula,Nebuloasa Eskimo,Eskimo-Nebel,Nébuleuse d'Eskimo,Nebulosa de Eskimo,Nebulosa Eskimo,Nebulosa Eskimo,Mgławica Eskimo,Eskimo-nevel
 N2565,Little Gem Nebula,Nebuloasa Mica Gemă,Kleine Gem-Nebel,Nébuleuse Petit Joyau,Nebulosa de Pequeña Gema,Nebulosa Piccola Gemma,Nebulosa Pequena Gema,Mgławica Mały Klejnot,Kleine Edelsteen-nevel
-N2566,Cleopatra's Eye,Cleopatra's Eye,Cleopatra's Eye,Cleopatra's Eye,Cleopatra's Eye,Cleopatra's Eye,Cleopatra's Eye,Cleopatra's Eye,Cleopatra's Eye
 N2571,Box Nebula,Nebuloasa Box,Box-Nebel,Nébuleuse Box,Nebulosa de Box,Nebulosa Box,Nebulosa Box,Mgławica Box,Box-nevel
 N2611,Phantom Streak Nebula,Nebuloasa Phantom Streak,Phantom Streak-Nebel,Nébuleuse Phantom Streak,Nebulosa de Phantom Streak,Nebulosa Phantom Streak,Nebulosa Phantom Streak,Mgławica Phantom Streak,Phantom Streak-nevel
 N2622,Barnard's Merope Nebula,Nebuloasa Barnard's Merope,Barnard's Merope-Nebel,Nébuleuse Barnard's Merope,Nebulosa de Barnard's Merope,Nebulosa Barnard's Merope,Nebulosa Barnard's Merope,Mgławica Barnard's Merope,Barnard's Merope-nevel
