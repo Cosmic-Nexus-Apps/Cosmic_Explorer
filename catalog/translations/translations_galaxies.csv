@@ -2,14 +2,9 @@ UID,Name_EN,Name_RO,Name_DE,Name_FR,Name_ES,Name_IT,Name_PT,Name_PL,Name_NL
 G1,Large Magellanic Cloud,Marele Nor al lui Magellan,Große Magellansche Wolke,Grand Nuage de Magellan,Gran Nube de Magallanes,Grande Nube di Magellano,Grande Nuvem de Magalhães,Wielki Obłok Magellana,Grote Magelhaense Wolk
 G2,Small Magellanic Cloud,Micul Nor al lui Magellan,Kleine Magellansche Wolke,Petit Nuage de Magellan,Pequeña Nube de Magallanes,Piccola Nube di Magellano,Pequena Nuvem de Magalhães,Mały Obłok Magellana,Kleine Magelhaense Wolk
 G3,Andromeda Galaxy,Galaxia Andromeda,Andromeda-Galaxie,Galaxie d'Andromeda,Galaxia de Andromeda,Galassia Andromeda,Galáxia Andromeda,Galaktyka Andromeda,Andromeda-stelsel
-G4,Sculptor Dwarf Elliptical,Sculptor Dwarf Elliptical,Sculptor Dwarf Elliptical,Sculptor Dwarf Elliptical,Sculptor Dwarf Elliptical,Sculptor Dwarf Elliptical,Sculptor Dwarf Elliptical,Sculptor Dwarf Elliptical,Sculptor Dwarf Elliptical
-G5,Fornax Dwarf Spheroidal,Fornax Dwarf Spheroidal,Fornax Dwarf Spheroidal,Fornax Dwarf Spheroidal,Fornax Dwarf Spheroidal,Fornax Dwarf Spheroidal,Fornax Dwarf Spheroidal,Fornax Dwarf Spheroidal,Fornax Dwarf Spheroidal
 G6,Triangulum Galaxy,Galaxia Triangulum,Triangulum-Galaxie,Galaxie Triangulum,Galaxia de Triangulum,Galassia Triangulum,Galáxia Triangulum,Galaktyka Triangulum,Triangulum-stelsel
 G7,Draco Dwarf,Pitica Draco,Draco-Zwerg,Naine Draco,Enana de Draco,Nana Draco,Anã Draco,Karzeł Draco,Draco-dwerg
 G9,Ursa Minor Dwarf,Pitica Ursa Minor,Ursa Minor-Zwerg,Naine d'Ursa Minor,Enana de Ursa Minor,Nana Ursa Minor,Anã Ursa Minor,Karzeł Ursa Minor,Ursa Minor-dwerg
-G10,Centaurus A,Centaurus A,Centaurus A,Centaurus A,Centaurus A,Centaurus A,Centaurus A,Centaurus A,Centaurus A
-G11,Carina Dwarf Spheroidal,Carina Dwarf Spheroidal,Carina Dwarf Spheroidal,Carina Dwarf Spheroidal,Carina Dwarf Spheroidal,Carina Dwarf Spheroidal,Carina Dwarf Spheroidal,Carina Dwarf Spheroidal,Carina Dwarf Spheroidal
-G12,Southern Pinwheel,Southern Pinwheel,Southern Pinwheel,Southern Pinwheel,Southern Pinwheel,Southern Pinwheel,Southern Pinwheel,Southern Pinwheel,Southern Pinwheel
 G13,Hidden Galaxy,Galaxia Hidden,Hidden-Galaxie,Galaxie Hidden,Galaxia de Hidden,Galassia Hidden,Galáxia Hidden,Galaktyka Hidden,Hidden-stelsel
 G14,Pinwheel Galaxy,Galaxia Vârtelnița,Feuerrad-Galaxie,Galaxie Moulinet,Galaxia de Molinete,Galassia Girandola,Galáxia Molinete,Galaktyka Wiatraczek,Windmolen-stelsel
 G15,Barnard's Galaxy,Galaxia lui Barnard,Barnard-Galaxie,Galaxie de Barnard,Galaxia de Barnard,Galassia di Barnard,Galáxia de Barnard,Galaktyka Barnarda,Barnard-stelsel
@@ -21,14 +16,12 @@ G27,Southern Pinwheel Galaxy,Galaxia Southern Pinwheel,Southern Pinwheel-Galaxie
 G28,Cat's Eye Galaxy,Galaxia Ochi de Pisică,Katzenaugen-Galaxie,Galaxie Œil de chat,Galaxia de Ojo de Gato,Galassia Occhio di Gatto,Galáxia Olho de Gato,Galaktyka Kocie Oko,Kattenoog-stelsel
 G30,Needle's Eye Galaxy,Galaxia Urechea Acului,Nadelöhr-Galaxie,Galaxie Trou d'aiguille,Galaxia de Ojo de Aguja,Galassia Cruna dell'Ago,Galáxia Buraco da Agulha,Galaktyka Ucho Igielne,Oog van de Naald-stelsel
 G35,Silver Coin Galaxy,Galaxia Silver Coin,Silver Coin-Galaxie,Galaxie Silver Coin,Galaxia de Silver Coin,Galassia Silver Coin,Galáxia Silver Coin,Galaktyka Silver Coin,Silver Coin-stelsel
-G36,Fornax A,Fornax A,Fornax A,Fornax A,Fornax A,Fornax A,Fornax A,Fornax A,Fornax A
 G37,Fireworks Galaxy,Galaxia Fireworks,Fireworks-Galaxie,Galaxie Fireworks,Galaxia de Fireworks,Galassia Fireworks,Galáxia Fireworks,Galaktyka Fireworks,Fireworks-stelsel
 G38,Topsy-Turvy Galaxy,Galaxia Topsy-Turvy,Topsy-Turvy-Galaxie,Galaxie Topsy-Turvy,Galaxia de Topsy-Turvy,Galassia Topsy-Turvy,Galáxia Topsy-Turvy,Galaktyka Topsy-Turvy,Topsy-Turvy-stelsel
 G43,Phantom Galaxy,Galaxia Fantomă,Phantom-Galaxie,Galaxie Fantôme,Galaxia de Fantasma,Galassia Fantasma,Galáxia Fantasma,Galaktyka Upiór,Fantoom-stelsel
 G44,Sunflower Galaxy,Galaxia Floarea Soarelui,Sonnenblume-Galaxie,Galaxie Tournesol,Galaxia de Girasol,Galassia Girasole,Galáxia Girassol,Galaktyka Słonecznik,Zonnebloem-stelsel
 G46,Eye of Sauron Galaxy,Galaxia Ochiul lui Sauron,Auge von Sauron-Galaxie,Galaxie Œil de Sauron,Galaxia de Ojo de Sauron,Galassia Occhio di Sauron,Galáxia Olho de Sauron,Galaktyka Oko Saurona,Oog van Sauron-stelsel
 G47,Great Barred Spiral Galaxy,Galaxia Great Barred Spiral,Great Barred Spiral-Galaxie,Galaxie Great Barred Spiral,Galaxia de Great Barred Spiral,Galassia Great Barred Spiral,Galáxia Great Barred Spiral,Galaktyka Great Barred Spiral,Great Barred Spiral-stelsel
-G48,Wolf-Lundmark-Melotte,Wolf-Lundmark-Melotte,Wolf-Lundmark-Melotte,Wolf-Lundmark-Melotte,Wolf-Lundmark-Melotte,Wolf-Lundmark-Melotte,Wolf-Lundmark-Melotte,Wolf-Lundmark-Melotte,Wolf-Lundmark-Melotte
 G49,Coddington's Nebula,Nebuloasa lui Coddington,Coddington-Nebel,Nébuleuse de Coddington,Nebulosa de Coddington,Nebulosa di Coddington,Nebulosa de Coddington,Mgławica Coddingtona,Coddington-nevel
 G50,Whirlpool Galaxy,Galaxia Vortexul,Whirlpool-Galaxie,Galaxie Tourbillon,Galaxia de Remolino,Galassia Vortice,Galáxia Redemoinho,Galaktyka Wir,Draaikolk-stelsel
 G51,Southern Barred Spiral Galaxy,Galaxia Southern Barred Spiral,Southern Barred Spiral-Galaxie,Galaxie Southern Barred Spiral,Galaxia de Southern Barred Spiral,Galassia Southern Barred Spiral,Galáxia Southern Barred Spiral,Galaktyka Southern Barred Spiral,Southern Barred Spiral-stelsel
@@ -47,22 +40,19 @@ G72,Hamburger Galaxy,Galaxia Hamburger,Hamburger-Galaxie,Galaxie Hamburger,Galax
 G73,One-Armed Spiral Galaxy,Galaxia One-Armed Spiral,One-Armed Spiral-Galaxie,Galaxie d'One-Armed Spiral,Galaxia de One-Armed Spiral,Galassia One-Armed Spiral,Galáxia One-Armed Spiral,Galaktyka One-Armed Spiral,One-Armed Spiral-stelsel
 G74,Whale Galaxy,Galaxia Whale,Whale-Galaxie,Galaxie Whale,Galaxia de Whale,Galassia Whale,Galáxia Whale,Galaktyka Whale,Whale-stelsel
 G75,Starburst Galaxy,Galaxia Starburst,Starburst-Galaxie,Galaxie Starburst,Galaxia de Starburst,Galassia Starburst,Galáxia Starburst,Galaktyka Starburst,Starburst-stelsel
-G80,Cetus A,Cetus A,Cetus A,Cetus A,Cetus A,Cetus A,Cetus A,Cetus A,Cetus A
 G81,Lost Galaxy,Galaxia Lost,Lost-Galaxie,Galaxie Lost,Galaxia de Lost,Galassia Lost,Galáxia Lost,Galaktyka Lost,Lost-stelsel
 G82,Hockey Stick Galaxy,Galaxia Hockey Stick,Hockey Stick-Galaxie,Galaxie Hockey Stick,Galaxia de Hockey Stick,Galassia Hockey Stick,Galáxia Hockey Stick,Galaktyka Hockey Stick,Hockey Stick-stelsel
-G83,Holmberg II,Holmberg II,Holmberg II,Holmberg II,Holmberg II,Holmberg II,Holmberg II,Holmberg II,Holmberg II
 G84,Eye Galaxy,Galaxia Eye,Eye-Galaxie,Galaxie d'Eye,Galaxia de Eye,Galassia Eye,Galáxia Eye,Galaktyka Eye,Eye-stelsel
 G85,Meathook Galaxy,Galaxia Meathook,Meathook-Galaxie,Galaxie Meathook,Galaxia de Meathook,Galassia Meathook,Galáxia Meathook,Galaktyka Meathook,Meathook-stelsel
 G86,Deer Lick Galaxy,Galaxia Deer Lick,Deer Lick-Galaxie,Galaxie Deer Lick,Galaxia de Deer Lick,Galassia Deer Lick,Galáxia Deer Lick,Galaktyka Deer Lick,Deer Lick-stelsel
 G87,Great Barred Spiral Galaxy,Galaxia Great Barred Spiral,Great Barred Spiral-Galaxie,Galaxie Great Barred Spiral,Galaxia de Great Barred Spiral,Galassia Great Barred Spiral,Galáxia Great Barred Spiral,Galaktyka Great Barred Spiral,Great Barred Spiral-stelsel
 G90,Mirror Galaxy,Galaxia Mirror,Mirror-Galaxie,Galaxie Mirror,Galaxia de Mirror,Galassia Mirror,Galáxia Mirror,Galaktyka Mirror,Mirror-stelsel
 G91,Koi Fish Galaxy,Galaxia Koi Fish,Koi Fish-Galaxie,Galaxie Koi Fish,Galaxia de Koi Fish,Galassia Koi Fish,Galáxia Koi Fish,Galaktyka Koi Fish,Koi Fish-stelsel
+G92,Virgo Galaxy,Galaxia Fecioara,Virgo-Galaxie,Galaxie de la Vierge,Galaxia de Virgo,Galassia della Vergine,Galáxia de Virgem,Galaktyka Panny,Virgosterrenstelsel
 G93,Silver Sliver Galaxy,Galaxia Silver Sliver,Silver Sliver-Galaxie,Galaxie Silver Sliver,Galaxia de Silver Sliver,Galassia Silver Sliver,Galáxia Silver Sliver,Galaktyka Silver Sliver,Silver Sliver-stelsel
 G95,The Frame Galaxy,Galaxia The Frame,The Frame-Galaxie,Galaxie The Frame,Galaxia de The Frame,Galassia The Frame,Galáxia The Frame,Galaktyka The Frame,The Frame-stelsel
 G96,Swell Galaxy,Galaxia Swell,Swell-Galaxie,Galaxie Swell,Galaxia de Swell,Galassia Swell,Galáxia Swell,Galaktyka Swell,Swell-stelsel
 G98,Tiger Eye Galaxy,Galaxia Tiger Eye,Tiger Eye-Galaxie,Galaxie Tiger Eye,Galaxia de Tiger Eye,Galassia Tiger Eye,Galáxia Tiger Eye,Galaktyka Tiger Eye,Tiger Eye-stelsel
-G99,Le Gentil,Le Gentil,Le Gentil,Le Gentil,Le Gentil,Le Gentil,Le Gentil,Le Gentil,Le Gentil
-G102,The Eyes,The Eyes,The Eyes,The Eyes,The Eyes,The Eyes,The Eyes,The Eyes,The Eyes
 G106,Polar Ring Galaxy,Galaxia Polar Ring,Polar Ring-Galaxie,Galaxie Polar Ring,Galaxia de Polar Ring,Galassia Polar Ring,Galáxia Polar Ring,Galaktyka Polar Ring,Polar Ring-stelsel
 G107,Needle Galaxy,Galaxia Needle,Needle-Galaxie,Galaxie Needle,Galaxia de Needle,Galassia Needle,Galáxia Needle,Galaktyka Needle,Needle-stelsel
 G111,Spindle Galaxy,Galaxia Spindle,Spindle-Galaxie,Galaxie Spindle,Galaxia de Spindle,Galassia Spindle,Galáxia Spindle,Galaktyka Spindle,Spindle-stelsel
@@ -79,53 +69,34 @@ G151,Garland Galaxy,Galaxia Garland,Garland-Galaxie,Galaxie Garland,Galaxia de G
 G155,Vacuum Cleaner Galaxy,Galaxia Vacuum Cleaner,Vacuum Cleaner-Galaxie,Galaxie Vacuum Cleaner,Galaxia de Vacuum Cleaner,Galassia Vacuum Cleaner,Galáxia Vacuum Cleaner,Galaktyka Vacuum Cleaner,Vacuum Cleaner-stelsel
 G157,Splinter Galaxy,Galaxia Splinter,Splinter-Galaxie,Galaxie Splinter,Galaxia de Splinter,Galassia Splinter,Galáxia Splinter,Galaktyka Splinter,Splinter-stelsel
 G158,Sombrero Galaxy,Galaxia Sombrero,Sombrero-Galaxie,Galaxie Sombrero,Galaxia de Sombrero,Galassia Sombrero,Galáxia Sombrero,Galaktyka Sombrero,Sombrero-stelsel
-G179,Antennae Galaxies,Antennae Galaxies,Antennae Galaxies,Antennae Galaxies,Antennae Galaxies,Antennae Galaxies,Antennae Galaxies,Antennae Galaxies,Antennae Galaxies
-G180,Little Sombrero,Little Sombrero,Little Sombrero,Little Sombrero,Little Sombrero,Little Sombrero,Little Sombrero,Little Sombrero,Little Sombrero
 G196,Spindle Galaxy,Galaxia Spindle,Spindle-Galaxie,Galaxie Spindle,Galaxia de Spindle,Galassia Spindle,Galáxia Spindle,Galaktyka Spindle,Spindle-stelsel
 G212,Grus Galaxy,Galaxia Grus,Grus-Galaxie,Galaxie Grus,Galaxia de Grus,Galassia Grus,Galáxia Grus,Galaktyka Grus,Grus-stelsel
-G213,Sextans Dwarf Spheroidal,Sextans Dwarf Spheroidal,Sextans Dwarf Spheroidal,Sextans Dwarf Spheroidal,Sextans Dwarf Spheroidal,Sextans Dwarf Spheroidal,Sextans Dwarf Spheroidal,Sextans Dwarf Spheroidal,Sextans Dwarf Spheroidal
 G216,Dusty Spiral Galaxy,Galaxia Dusty Spiral,Dusty Spiral-Galaxie,Galaxie Dusty Spiral,Galaxia de Dusty Spiral,Galassia Dusty Spiral,Galáxia Dusty Spiral,Galaktyka Dusty Spiral,Dusty Spiral-stelsel
 G242,Feathered Spiral Galaxy,Galaxia Feathered Spiral,Feathered Spiral-Galaxie,Galaxie Feathered Spiral,Galaxia de Feathered Spiral,Galassia Feathered Spiral,Galáxia Feathered Spiral,Galaktyka Feathered Spiral,Feathered Spiral-stelsel
 G243,Turtle Galaxy,Galaxia Turtle,Turtle-Galaxie,Galaxie Turtle,Galaxia de Turtle,Galassia Turtle,Galáxia Turtle,Galaktyka Turtle,Turtle-stelsel
 G257,Lost in Space Galaxy,Galaxia Lost in Space,Lost in Space-Galaxie,Galaxie Lost in Space,Galaxia de Lost in Space,Galassia Lost in Space,Galáxia Lost in Space,Galaktyka Lost in Space,Lost in Space-stelsel
 G260,Ring of Fire Galaxy,Galaxia Ring of Fire,Ring of Fire-Galaxie,Galaxie Ring of Fire,Galaxia de Ring of Fire,Galassia Ring of Fire,Galáxia Ring of Fire,Galaktyka Ring of Fire,Ring of Fire-stelsel
 G277,Silver Needle Galaxy,Galaxia Silver Needle,Silver Needle-Galaxie,Galaxie Silver Needle,Galaxia de Silver Needle,Galassia Silver Needle,Galáxia Silver Needle,Galaktyka Silver Needle,Silver Needle-stelsel
-G297,Fornax B,Fornax B,Fornax B,Fornax B,Fornax B,Fornax B,Fornax B,Fornax B,Fornax B
-G319,Ghost of Mirach,Ghost of Mirach,Ghost of Mirach,Ghost of Mirach,Ghost of Mirach,Ghost of Mirach,Ghost of Mirach,Ghost of Mirach,Ghost of Mirach
 G322,Phoenix Dwarf,Pitica Phoenix,Phoenix-Zwerg,Naine Phoenix,Enana de Phoenix,Nana Phoenix,Anã Phoenix,Karzeł Phoenix,Phoenix-dwerg
 G338,Umbrella Galaxy,Galaxia Umbrella,Umbrella-Galaxie,Galaxie d'Umbrella,Galaxia de Umbrella,Galassia Umbrella,Galáxia Umbrella,Galaktyka Umbrella,Umbrella-stelsel
 G339,Superman Galaxy,Galaxia Superman,Superman-Galaxie,Galaxie Superman,Galaxia de Superman,Galassia Superman,Galáxia Superman,Galaktyka Superman,Superman-stelsel
 G363,Helix Galaxy,Galaxia Helix,Helix-Galaxie,Galaxie Hélice,Galaxia de Hélice,Galassia Elica,Galáxia Hélice,Galaktyka Ślimak,Helix-stelsel
-G367,Siamese Twins,Siamese Twins,Siamese Twins,Siamese Twins,Siamese Twins,Siamese Twins,Siamese Twins,Siamese Twins,Siamese Twins
-G385,Holmberg I,Holmberg I,Holmberg I,Holmberg I,Holmberg I,Holmberg I,Holmberg I,Holmberg I,Holmberg I
 G515,Polar Ring Galaxy,Galaxia Polar Ring,Polar Ring-Galaxie,Galaxie Polar Ring,Galaxia de Polar Ring,Galassia Polar Ring,Galáxia Polar Ring,Galaktyka Polar Ring,Polar Ring-stelsel
 G524,Starburst Galaxy,Galaxia Starburst,Starburst-Galaxie,Galaxie Starburst,Galaxia de Starburst,Galassia Starburst,Galáxia Starburst,Galaktyka Starburst,Starburst-stelsel
-G608,Sagittarius Dwarf Elliptical,Sagittarius Dwarf Elliptical,Sagittarius Dwarf Elliptical,Sagittarius Dwarf Elliptical,Sagittarius Dwarf Elliptical,Sagittarius Dwarf Elliptical,Sagittarius Dwarf Elliptical,Sagittarius Dwarf Elliptical,Sagittarius Dwarf Elliptical
-G644,The Mice Galaxies,The Mice Galaxies,The Mice Galaxies,The Mice Galaxies,The Mice Galaxies,The Mice Galaxies,The Mice Galaxies,The Mice Galaxies,The Mice Galaxies
 G680,Small Pinwheel Galaxy,Galaxia Small Pinwheel,Small Pinwheel-Galaxie,Galaxie Small Pinwheel,Galaxia de Small Pinwheel,Galassia Small Pinwheel,Galáxia Small Pinwheel,Galaktyka Small Pinwheel,Small Pinwheel-stelsel
-G799,Siamese Twins,Siamese Twins,Siamese Twins,Siamese Twins,Siamese Twins,Siamese Twins,Siamese Twins,Siamese Twins,Siamese Twins
 G825,Atoms-for-Peace Galaxy,Galaxia Atoms-for-Peace,Atoms-for-Peace-Galaxie,Galaxie d'Atoms-for-Peace,Galaxia de Atoms-for-Peace,Galassia Atoms-for-Peace,Galáxia Atoms-for-Peace,Galaktyka Atoms-for-Peace,Atoms-for-Peace-stelsel
-G892,Polarissima Borealis,Polarissima Borealis,Polarissima Borealis,Polarissima Borealis,Polarissima Borealis,Polarissima Borealis,Polarissima Borealis,Polarissima Borealis,Polarissima Borealis
 G915,The 1994 Galaxy,Galaxia The 1994,The 1994-Galaxie,Galaxie The 1994,Galaxia de The 1994,Galassia The 1994,Galáxia The 1994,Galaktyka The 1994,The 1994-stelsel
 G930,Fried Egg Galaxy,Galaxia Fried Egg,Fried Egg-Galaxie,Galaxie Fried Egg,Galaxia de Fried Egg,Galassia Fried Egg,Galáxia Fried Egg,Galaktyka Fried Egg,Fried Egg-stelsel
 G945,Bear's Paw Galaxy,Galaxia Bear's Paw,Bear's Paw-Galaxie,Galaxie Bear's Paw,Galaxia de Bear's Paw,Galassia Bear's Paw,Galáxia Bear's Paw,Galaktyka Bear's Paw,Bear's Paw-stelsel
-G1028,Perseus A,Perseus A,Perseus A,Perseus A,Perseus A,Perseus A,Perseus A,Perseus A,Perseus A
-G1053,Medusa Merger,Medusa Merger,Medusa Merger,Medusa Merger,Medusa Merger,Medusa Merger,Medusa Merger,Medusa Merger,Medusa Merger
-G1094,Holmberg IX,Holmberg IX,Holmberg IX,Holmberg IX,Holmberg IX,Holmberg IX,Holmberg IX,Holmberg IX,Holmberg IX
 G1417,Tadpole Galaxy,Galaxia Tadpole,Tadpole-Galaxie,Galaxie Tadpole,Galaxia de Tadpole,Galassia Tadpole,Galáxia Tadpole,Galaktyka Tadpole,Tadpole-stelsel
 G1435,Backward Galaxy,Galaxia Backward,Backward-Galaxie,Galaxie Backward,Galaxia de Backward,Galassia Backward,Galáxia Backward,Galaktyka Backward,Backward-stelsel
-G1490,Miniature Spiral,Miniature Spiral,Miniature Spiral,Miniature Spiral,Miniature Spiral,Miniature Spiral,Miniature Spiral,Miniature Spiral,Miniature Spiral
 G1551,Antlia Dwarf,Pitica Antlia,Antlia-Zwerg,Naine d'Antlia,Enana de Antlia,Nana Antlia,Anã Antlia,Karzeł Antlia,Antlia-dwerg
 G1628,Heron Galaxy,Galaxia Heron,Heron-Galaxie,Galaxie Heron,Galaxia de Heron,Galassia Heron,Galáxia Heron,Galaktyka Heron,Heron-stelsel
 G1631,Tucana Dwarf,Pitica Tucana,Tucana-Zwerg,Naine Tucana,Enana de Tucana,Nana Tucana,Anã Tucana,Karzeł Tucana,Tucana-dwerg
-G2105,The Guitar,The Guitar,The Guitar,The Guitar,The Guitar,The Guitar,The Guitar,The Guitar,The Guitar
-G2193,Polarissima Australis,Polarissima Australis,Polarissima Australis,Polarissima Australis,Polarissima Australis,Polarissima Australis,Polarissima Australis,Polarissima Australis,Polarissima Australis
 G2306,Pisces Dwarf,Pitica Pisces,Pisces-Zwerg,Naine Pisces,Enana de Pisces,Nana Pisces,Anã Pisces,Karzeł Pisces,Pisces-dwerg
 G3044,Cartwheel Galaxy,Galaxia Roata de Car,Wagenrad-Galaxie,Galaxie Roue de chariot,Galaxia de Rueda de Carro,Galassia Ruota di Carro,Galáxia Roda de Carro,Galaktyka Koło Wozu,Wagenwiel-stelsel
-G4026,Hoag's Object,Hoag's Object,Hoag's Object,Hoag's Object,Hoag's Object,Hoag's Object,Hoag's Object,Hoag's Object,Hoag's Object
 G4630,Guitar Galaxy,Galaxia Guitar,Guitar-Galaxie,Galaxie Guitar,Galaxia de Guitar,Galassia Guitar,Galáxia Guitar,Galaktyka Guitar,Guitar-stelsel
 G5473,Lindsay-Shapley Ring,Inelul Lindsay-Shapley,Lindsay-Shapley-Ring,Anneau Lindsay-Shapley,Anillo de Lindsay-Shapley,Anello Lindsay-Shapley,Anel Lindsay-Shapley,Pierścień Lindsay-Shapley,Lindsay-Shapley-ring
-G7337,Mayall's Object,Mayall's Object,Mayall's Object,Mayall's Object,Mayall's Object,Mayall's Object,Mayall's Object,Mayall's Object,Mayall's Object
 G8137,Pegasus Dwarf,Pitica Pegasus,Pegasus-Zwerg,Naine Pegasus,Enana de Pegasus,Nana Pegasus,Anã Pegasus,Karzeł Pegasus,Pegasus-dwerg
 G9774,Largest Known Galaxy,Galaxia Largest Known,Largest Known-Galaxie,Galaxie Largest Known,Galaxia de Largest Known,Galassia Largest Known,Galáxia Largest Known,Galaktyka Largest Known,Largest Known-stelsel
 G9946,Leo I Dwarf,Pitica Leo I,Leo I-Zwerg,Naine Leo I,Enana de Leo I,Nana Leo I,Anã Leo I,Karzeł Leo I,Leo I-dwerg

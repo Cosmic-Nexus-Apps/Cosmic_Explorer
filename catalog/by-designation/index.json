@@ -1,0 +1,267 @@
+{
+  "abell": {
+    "label": "Abell",
+    "file": "abell.csv",
+    "rows": 8
+  },
+  "alessi": {
+    "label": "Alessi",
+    "file": "alessi.csv",
+    "rows": 23
+  },
+  "arp": {
+    "label": "Arp",
+    "file": "arp.csv",
+    "rows": 165
+  },
+  "ascc": {
+    "label": "ASCC",
+    "file": "ascc.csv",
+    "rows": 118
+  },
+  "barnard": {
+    "label": "B",
+    "file": "barnard.csv",
+    "rows": 435
+  },
+  "basel": {
+    "label": "Basel",
+    "file": "basel.csv",
+    "rows": 16
+  },
+  "bdsb": {
+    "label": "BDSB",
+    "file": "bdsb.csv",
+    "rows": 58
+  },
+  "berkeley": {
+    "label": "Berkeley",
+    "file": "berkeley.csv",
+    "rows": 94
+  },
+  "bochum": {
+    "label": "Bochum",
+    "file": "bochum.csv",
+    "rows": 12
+  },
+  "caldwell": {
+    "label": "C",
+    "file": "caldwell.csv",
+    "rows": 105
+  },
+  "cederblad": {
+    "label": "Ced",
+    "file": "cederblad.csv",
+    "rows": 2
+  },
+  "collinder": {
+    "label": "Cr",
+    "file": "collinder.csv",
+    "rows": 73
+  },
+  "czernik": {
+    "label": "Czernik",
+    "file": "czernik.csv",
+    "rows": 36
+  },
+  "dbsb": {
+    "label": "DBSB",
+    "file": "dbsb.csv",
+    "rows": 87
+  },
+  "dolidze": {
+    "label": "Dolidze",
+    "file": "dolidze.csv",
+    "rows": 45
+  },
+  "dutrabica": {
+    "label": "Dutra-Bica",
+    "file": "dutrabica.csv",
+    "rows": 10
+  },
+  "eso": {
+    "label": "ESO",
+    "file": "eso.csv",
+    "rows": 2646
+  },
+  "fsr": {
+    "label": "FSR",
+    "file": "fsr.csv",
+    "rows": 833
+  },
+  "gliese": {
+    "label": "Gl",
+    "file": "gliese.csv",
+    "rows": 1002
+  },
+  "haffner": {
+    "label": "Haffner",
+    "file": "haffner.csv",
+    "rows": 23
+  },
+  "hd": {
+    "label": "HD",
+    "file": "hd.csv",
+    "rows": 41380
+  },
+  "hip": {
+    "label": "HIP",
+    "file": "hip.csv",
+    "rows": 41464
+  },
+  "hogg": {
+    "label": "Hogg",
+    "file": "hogg.csv",
+    "rows": 17
+  },
+  "hr": {
+    "label": "HR",
+    "file": "hr.csv",
+    "rows": 9059
+  },
+  "ic": {
+    "label": "IC",
+    "file": "ic.csv",
+    "rows": 4438
+  },
+  "iras": {
+    "label": "IRAS",
+    "file": "iras.csv",
+    "rows": 3246
+  },
+  "king": {
+    "label": "King",
+    "file": "king.csv",
+    "rows": 21
+  },
+  "koposov": {
+    "label": "Koposov",
+    "file": "koposov.csv",
+    "rows": 10
+  },
+  "kronberger": {
+    "label": "Kronberger",
+    "file": "kronberger.csv",
+    "rows": 25
+  },
+  "lbn": {
+    "label": "LBN",
+    "file": "lbn.csv",
+    "rows": 282
+  },
+  "ldn": {
+    "label": "LDN",
+    "file": "ldn.csv",
+    "rows": 1789
+  },
+  "loden": {
+    "label": "Loden",
+    "file": "loden.csv",
+    "rows": 54
+  },
+  "lynga": {
+    "label": "Lynga",
+    "file": "lynga.csv",
+    "rows": 14
+  },
+  "mcg": {
+    "label": "MCG",
+    "file": "mcg.csv",
+    "rows": 7516
+  },
+  "melotte": {
+    "label": "Mel",
+    "file": "melotte.csv",
+    "rows": 11
+  },
+  "messier": {
+    "label": "M",
+    "file": "messier.csv",
+    "rows": 112
+  },
+  "mwsc": {
+    "label": "MWSC",
+    "file": "mwsc.csv",
+    "rows": 2928
+  },
+  "ngc": {
+    "label": "NGC",
+    "file": "ngc.csv",
+    "rows": 7647
+  },
+  "pgc": {
+    "label": "PGC",
+    "file": "pgc.csv",
+    "rows": 9794
+  },
+  "pismis": {
+    "label": "Pismis",
+    "file": "pismis.csv",
+    "rows": 20
+  },
+  "rcw": {
+    "label": "RCW",
+    "file": "rcw.csv",
+    "rows": 3
+  },
+  "ruprecht": {
+    "label": "Ruprecht",
+    "file": "ruprecht.csv",
+    "rows": 157
+  },
+  "sai": {
+    "label": "SAI",
+    "file": "sai.csv",
+    "rows": 36
+  },
+  "sao": {
+    "label": "SAO",
+    "file": "sao.csv",
+    "rows": 9040
+  },
+  "sharpless": {
+    "label": "Sh2",
+    "file": "sharpless.csv",
+    "rows": 321
+  },
+  "stock": {
+    "label": "Stock",
+    "file": "stock.csv",
+    "rows": 18
+  },
+  "terzan": {
+    "label": "Terzan",
+    "file": "terzan.csv",
+    "rows": 11
+  },
+  "teutsch": {
+    "label": "Teutsch",
+    "file": "teutsch.csv",
+    "rows": 51
+  },
+  "trumpler": {
+    "label": "Trumpler",
+    "file": "trumpler.csv",
+    "rows": 32
+  },
+  "ugc": {
+    "label": "UGC",
+    "file": "ugc.csv",
+    "rows": 4102
+  },
+  "ugca": {
+    "label": "UGCA",
+    "file": "ugca.csv",
+    "rows": 169
+  },
+  "vdberg": {
+    "label": "vdB",
+    "file": "vdberg.csv",
+    "rows": 1
+  },
+  "vdberghhagen": {
+    "label": "vdBergh-Hagen",
+    "file": "vdberghhagen.csv",
+    "rows": 48
+  }
+}

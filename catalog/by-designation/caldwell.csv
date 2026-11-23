@@ -1,0 +1,106 @@
+Designation,UID,ID,Dataset,Primary_Name
+C 1,SC42,CE-SC-42-O,star_clusters,-
+C 2,N2429,CE-N-2397,nebulae,Bow-Tie Nebula
+C 3,G26,CE-G-26,galaxies,-
+C 4,N1058,CE-N-1057,nebulae,Iris Nebula
+C 5,G13,CE-G-13,galaxies,Hidden Galaxy
+C 6,N1883,CE-N-1871,nebulae,Cat's Eye Nebula
+C 7,G21,CE-G-21,galaxies,-
+C 8,SC230,CE-SC-222-O,star_clusters,-
+C 9,N345,CE-N-341,nebulae,-
+C 10,SC665,CE-SC-544-O,star_clusters,Snowflake Cluster
+C 11,N730,CE-N-729,nebulae,Bubble Nebula
+C 12,G37,CE-G-37,galaxies,Fireworks Galaxy
+C 13,SC303,CE-SC-279-O,star_clusters,Owl Cluster
+C14,SC18,CE-SC-15-O,star_clusters,Perseus Double Cluster
+C 15,N2374,CE-N-2369,nebulae,Blinking Planetary Nebula
+C 16,SC72,CE-SC-68-O,star_clusters,-
+C 17,G39,CE-G-40,galaxies,-
+C 18,G29,CE-G-29,galaxies,-
+C 19,N1253,CE-N-1250,nebulae,Cocoon Nebula
+C 20,N124,CE-N-124,nebulae,North America Nebula
+C 21,G65,CE-G-66,galaxies,Box Galaxy
+C 22,N2311,CE-N-2289,nebulae,Blue Snowball Nebula
+C 23,G93,CE-G-94,galaxies,Silver Sliver Galaxy
+C 25,SC2103,CE-SC-2102-G,star_clusters,-
+C 26,G57,CE-G-58,galaxies,Silver Needle Galaxy
+C 27,N1026,CE-N-1023,nebulae,Crescent Nebula
+C 28,SC8,CE-SC-8-O,star_clusters,Toby Jug Cluster
+C 29,G217,CE-G-218,galaxies,-
+C 30,N1758,CE-N-1755,nebulae,Crab Nebula
+C 31,N401,CE-N-400,nebulae,Flaming Star Nebula
+C 33,N349,CE-N-339,nebulae,Eastern Veil Nebula
+C 34,N545,CE-N-545,nebulae,Western Veil Nebula
+C 36,G91,CE-G-92,galaxies,Koi Fish Galaxy
+C 37,SC345,CE-SC-321-O,star_clusters,-
+C 38,G107,CE-G-108,galaxies,Needle Galaxy
+C 39,N2528,CE-N-2522,nebulae,Eskimo Nebula
+C 40,G596,CE-G-597,galaxies,-
+C 41,SC1,CE-SC-1-O,star_clusters,Hyades
+C 42,SC2909,CE-SC-2898-G,star_clusters,-
+C 43,G180,CE-G-181,galaxies,Little Sombrero
+C 44,G339,CE-G-340,galaxies,Superman Galaxy
+C 45,G219,CE-G-220,galaxies,-
+C 46,N2316,CE-N-2311,nebulae,Hubble's Nebula
+C 47,SC2108,CE-SC-2105-G,star_clusters,-
+C 48,G242,CE-G-243,galaxies,Feathered Spiral Galaxy
+C 49,N153,CE-N-151,nebulae,Rosette Nebula
+C 50,N153,CE-N-151,nebulae,Rosette Nebula
+C 51,G19,CE-G-19,galaxies,-
+C 53,G111,CE-G-112,galaxies,Spindle Galaxy
+C 54,SC151,CE-SC-145-O,star_clusters,-
+C 55,N2506,CE-N-2501,nebulae,Saturn Nebula
+C 56,N1917,CE-N-1913,nebulae,Skull Nebula
+C 57,G15,CE-G-15,galaxies,Barnard's Galaxy
+C 58,SC226,CE-SC-218-O,star_clusters,Caroline's Cluster
+C 59,N2505,CE-N-2500,nebulae,Ghost of Jupiter
+C 60,G179,CE-G-180,galaxies,Antennae Galaxies
+C 62,G30,CE-G-30,galaxies,Needle's Eye Galaxy
+C 63,N965,CE-N-965,nebulae,Helix Nebula
+C 64,SC363,CE-SC-346-O,star_clusters,Tau Canis Majoris Cluster
+C 65,G22,CE-G-22,galaxies,Sculptor Galaxy
+C 66,SC2878,CE-SC-2860-G,star_clusters,-
+C 67,G51,CE-G-52,galaxies,Southern Barred Spiral Galaxy
+C 68,N2384,CE-N-2379,nebulae,-
+C 69,N2230,CE-N-2225,nebulae,Butterfly Nebula
+C 70,G12,CE-G-12,galaxies,Southern Pinwheel
+C 71,SC44,CE-SC-43-O,star_clusters,-
+C 72,G16,CE-G-16,galaxies,String of Pearls Galaxy
+C 73,SC666,CE-SC-547-G,star_clusters,-
+C 74,N2489,CE-N-2483,nebulae,Southern Ring Nebula
+C 75,SC94,CE-SC-91-O,star_clusters,Scorpion's Tail Cluster
+C 76,SC128,CE-SC-128-O,star_clusters,Northern Jewel Box
+C 77,G10,CE-G-10,galaxies,Centaurus A
+C 78,SC340,CE-SC-313-G,star_clusters,-
+C 79,SC198,CE-SC-191-G,star_clusters,-
+C 80,SC497,CE-SC-494-G,star_clusters,Omega Centauri
+C 81,SC1189,CE-SC-1186-G,star_clusters,-
+C 82,SC269,CE-SC-275-O,star_clusters,-
+C 83,G35,CE-G-35,galaxies,Silver Coin Galaxy
+C 84,SC1198,CE-SC-1191-G,star_clusters,-
+C 85,SC19,CE-SC-19-O,star_clusters,Omicron Velorum Cluster
+C 86,SC64,CE-SC-64-G,star_clusters,-
+C 87,SC1604,CE-SC-1598-G,star_clusters,-
+C 88,SC1748,CE-SC-1616-O,star_clusters,-
+C 89,SC172,CE-SC-159-O,star_clusters,S Normae Cluster
+C 90,N2495,CE-N-2490,nebulae,-
+C 91,SC63,CE-SC-63-O,star_clusters,Wishing Well Cluster
+C 92,N75,CE-N-75,nebulae,Carina Nebula
+C 93,SC102,CE-SC-96-G,star_clusters,Great Peacock Globular
+C 94,SC278,CE-SC-297-O,star_clusters,Jewel Box Cluster
+C 95,SC130,CE-SC-129-O,star_clusters,Bright Eye Cluster
+C 96,SC28,CE-SC-28-O,star_clusters,Diamond Cluster
+C 97,SC420,CE-SC-384-O,star_clusters,Pearl Cluster
+C 98,SC878,CE-SC-746-O,star_clusters,Coalsack Cluster
+C 099,N10,CE-N-9,nebulae,Coalsack Nebula
+C 100,N103,CE-N-103,nebulae,Running Chicken Nebula
+C 101,G25,CE-G-25,galaxies,-
+C 102,SC7,CE-SC-7-O,star_clusters,Southern Pleiades
+C 103,N770,CE-N-760,nebulae,Tarantula Nebula
+C 104,SC366,CE-SC-350-G,star_clusters,-
+C 105,SC265,CE-SC-246-G,star_clusters,-
+C 106,SC13,CE-SC-13-G,star_clusters,47 Tucanae
+C 107,SC1390,CE-SC-1217-G,star_clusters,-
+C 108,SC127,CE-SC-120-G,star_clusters,-
+C 109,N2567,CE-N-2544,nebulae,-
+C1331-622,SC1323,CE-SC-1274-O,star_clusters,-

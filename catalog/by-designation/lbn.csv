@@ -1,0 +1,283 @@
+Designation,UID,ID,Dataset,Primary_Name
+LBN 2,N1300,CE-N-1304,nebulae,-
+LBN 3,N1433,CE-N-1448,nebulae,-
+LBN 4,N2027,CE-N-2038,nebulae,-
+LBN 13,N2401,CE-N-2428,nebulae,-
+LBN 14,N342,CE-N-345,nebulae,-
+LBN 17,N674,CE-N-677,nebulae,-
+LBN 24,N4,CE-N-4,nebulae,Zeta Ophiuchi Nebula
+LBN 25,N356,CE-N-356,nebulae,Lagoon Nebula
+LBN 27,N700,CE-N-700,nebulae,Trifid Nebula
+LBN 28,N1279,CE-N-1280,nebulae,-
+LBN 29,N510,CE-N-517,nebulae,-
+LBN 33,N504,CE-N-518,nebulae,-
+LBN 34,N1419,CE-N-1425,nebulae,-
+LBN 37,N578,CE-N-582,nebulae,-
+LBN 38,N188,CE-N-191,nebulae,-
+LBN 42,N909,CE-N-919,nebulae,-
+LBN 43,N2093,CE-N-2086,nebulae,-
+LBN 45,N455,CE-N-457,nebulae,-
+LBN 46,N1453,CE-N-1427,nebulae,-
+LBN 48,N2298,CE-N-2307,nebulae,-
+LBN 49,N1128,CE-N-1136,nebulae,-
+LBN 51,N189,CE-N-192,nebulae,-
+LBN 55,N380,CE-N-382,nebulae,-
+LBN 56,N2300,CE-N-2308,nebulae,-
+LBN 58,N764,CE-N-768,nebulae,-
+LBN 59,N2028,CE-N-2018,nebulae,-
+LBN 60,N348,CE-N-340,nebulae,Omega Nebula
+LBN 62,N579,CE-N-583,nebulae,-
+LBN 64,N1434,CE-N-1451,nebulae,-
+LBN 65,N580,CE-N-581,nebulae,-
+LBN 67,N243,CE-N-243,nebulae,Eagle Nebula
+LBN 72,N88,CE-N-88,nebulae,-
+LBN 73,N2029,CE-N-2041,nebulae,-
+LBN 75,N1168,CE-N-1165,nebulae,-
+LBN 77,N1746,CE-N-1751,nebulae,-
+LBN 78,N2403,CE-N-2429,nebulae,-
+LBN 79,N1639,CE-N-1642,nebulae,-
+LBN 80,N911,CE-N-922,nebulae,-
+LBN 82,N912,CE-N-921,nebulae,-
+LBN 84,N2404,CE-N-2399,nebulae,-
+LBN 85,N2165,CE-N-2173,nebulae,-
+LBN 86,N378,CE-N-379,nebulae,-
+LBN 90,N765,CE-N-769,nebulae,-
+LBN 91,N1747,CE-N-1743,nebulae,-
+LBN 92,N1640,CE-N-1643,nebulae,-
+LBN 93,N1641,CE-N-1633,nebulae,-
+LBN 94,N1435,CE-N-1434,nebulae,-
+LBN 99,N913,CE-N-905,nebulae,-
+LBN 102,N2030,CE-N-2035,nebulae,-
+LBN 103,N2301,CE-N-2296,nebulae,-
+LBN 104,N766,CE-N-761,nebulae,-
+LBN 105,N235,CE-N-236,nebulae,-
+LBN 109,N2302,CE-N-2293,nebulae,-
+LBN 110,N1748,CE-N-1742,nebulae,-
+LBN 127,N2405,CE-N-2396,nebulae,-
+LBN 129,N1524,CE-N-1527,nebulae,-
+LBN 131,N1131,CE-N-1127,nebulae,-
+LBN 135,N512,CE-N-507,nebulae,-
+LBN 136,N1438,CE-N-1454,nebulae,-
+LBN 139,N767,CE-N-770,nebulae,-
+LBN 144,N1877,CE-N-1872,nebulae,-
+LBN 145,N417,CE-N-417,nebulae,-
+LBN 146,N2544,CE-N-2549,nebulae,-
+LBN 147,N329,CE-N-343,nebulae,-
+LBN 148,N768,CE-N-764,nebulae,-
+LBN 149,N2545,CE-N-2548,nebulae,-
+LBN 150,N769,CE-N-765,nebulae,-
+LBN 151,N1107,CE-N-1133,nebulae,-
+LBN 154,N1132,CE-N-1129,nebulae,-
+LBN 160,N2032,CE-N-2023,nebulae,-
+LBN 161,N2166,CE-N-2165,nebulae,-
+LBN 168,N914,CE-N-910,nebulae,-
+LBN 169,N513,CE-N-512,nebulae,-
+LBN 181,N1531,CE-N-1528,nebulae,-
+LBN 191,N545,CE-N-545,nebulae,Western Veil Nebula
+LBN 195,N1749,CE-N-1748,nebulae,-
+LBN 203,N1026,CE-N-1023,nebulae,Crescent Nebula
+LBN 231,N2033,CE-N-2033,nebulae,-
+LBN 234,N50,CE-N-51,nebulae,-
+LBN 254,N418,CE-N-419,nebulae,-
+LBN 274,N1835,CE-N-1874,nebulae,-
+LBN 287,N190,CE-N-190,nebulae,-
+LBN 333,N1134,CE-N-1135,nebulae,-
+LBN 337,N1133,CE-N-1134,nebulae,-
+LBN 347,N1525,CE-N-1526,nebulae,-
+LBN 357,N419,CE-N-418,nebulae,-
+LBN 373,N124,CE-N-124,nebulae,North America Nebula
+LBN 391,N60,CE-N-60,nebulae,Clamshell Nebula
+LBN 394,N1420,CE-N-1446,nebulae,-
+LBN 405,N5,CE-N-6,nebulae,-
+LBN 414,N1251,CE-N-1251,nebulae,-
+LBN 424,N1253,CE-N-1250,nebulae,Cocoon Nebula
+LBN 426,N268,CE-N-271,nebulae,-
+LBN 428,N101,CE-N-101,nebulae,-
+LBN 436,N2408,CE-N-2419,nebulae,-
+LBN 437,N236,CE-N-235,nebulae,Gecko Nebula
+LBN 443,N2548,CE-N-2543,nebulae,-
+LBN 451,N49,CE-N-50,nebulae,Elephant's Trunk Nebula
+LBN 452,N49,CE-N-50,nebulae,Elephant's Trunk Nebula
+LBN 473,N148,CE-N-148,nebulae,Lion Nebula
+LBN 476,N214,CE-N-215,nebulae,-
+LBN 487,N1058,CE-N-1057,nebulae,Iris Nebula
+LBN 490,N68,CE-N-68,nebulae,-
+LBN 492,N1135,CE-N-1132,nebulae,-
+LBN 497,N1278,CE-N-1277,nebulae,-
+LBN 498,N191,CE-N-188,nebulae,-
+LBN 502,N1440,CE-N-1443,nebulae,-
+LBN 505,N675,CE-N-676,nebulae,-
+LBN 509,N2035,CE-N-2031,nebulae,-
+LBN 511,N676,CE-N-670,nebulae,Wizard Nebula
+LBN 512,N2168,CE-N-2163,nebulae,-
+LBN 514,N2409,CE-N-2415,nebulae,-
+LBN 516,N2550,CE-N-2557,nebulae,-
+LBN 517,N915,CE-N-907,nebulae,-
+LBN 518,N2036,CE-N-2032,nebulae,-
+LBN 519,N2412,CE-N-2418,nebulae,-
+LBN 521,N344,CE-N-342,nebulae,-
+LBN 529,N345,CE-N-341,nebulae,-
+LBN 537,N152,CE-N-152,nebulae,Lobster Claw Nebula
+LBN 542,N1415,CE-N-1444,nebulae,Northern Lagoon Nebula
+LBN 543,N1750,CE-N-1747,nebulae,-
+LBN 547,N379,CE-N-378,nebulae,-
+LBN 548,N730,CE-N-729,nebulae,Bubble Nebula
+LBN 551,N215,CE-N-216,nebulae,-
+LBN 554,N2304,CE-N-2301,nebulae,-
+LBN 557,N1441,CE-N-1440,nebulae,-
+LBN 565,N1442,CE-N-1441,nebulae,-
+LBN 566,N1443,CE-N-1442,nebulae,-
+LBN 568,N1751,CE-N-1746,nebulae,-
+LBN 577,N916,CE-N-908,nebulae,-
+LBN 589,N36,CE-N-36,nebulae,Question Mark Nebula
+LBN 593,N677,CE-N-675,nebulae,-
+LBN 596,N2415,CE-N-2394,nebulae,-
+LBN 597,N1445,CE-N-1433,nebulae,-
+LBN 598,N1444,CE-N-1432,nebulae,-
+LBN 614,N1137,CE-N-1131,nebulae,-
+LBN 616,G978,CE-G-951,galaxies,-
+LBN 616,N414,CE-N-416,nebulae,Pacman Nebula
+LBN 617,N9,CE-N-10,nebulae,-
+LBN 620,N1281,CE-N-1279,nebulae,Ghosts of Cassiopeia
+LBN 622,N1281,CE-N-1279,nebulae,Ghosts of Cassiopeia
+LBN 623,N212,CE-N-214,nebulae,Ghost of Cassiopeia
+LBN 630,N1446,CE-N-1439,nebulae,-
+LBN 633,N1307,CE-N-1298,nebulae,Shrimp Nebula
+LBN 645,N728,CE-N-730,nebulae,Fish Head Nebula
+LBN 654,N90,CE-N-89,nebulae,Heart Nebula
+LBN 659,N2418,CE-N-2407,nebulae,-
+LBN 660,N2419,CE-N-2414,nebulae,-
+LBN 661,N2554,CE-N-2555,nebulae,-
+LBN 664,N2169,CE-N-2162,nebulae,-
+LBN 665,N2305,CE-N-2300,nebulae,-
+LBN 667,N145,CE-N-145,nebulae,Soul Nebula
+LBN 669,N1527,CE-N-1525,nebulae,-
+LBN 674,N1878,CE-N-1873,nebulae,-
+LBN 675,N2039,CE-N-2028,nebulae,-
+LBN 677,N58,CE-N-58,nebulae,-
+LBN 685,N456,CE-N-456,nebulae,-
+LBN 689,N516,CE-N-510,nebulae,-
+LBN 701,N121,CE-N-121,nebulae,-
+LBN 704,N756,CE-N-767,nebulae,-
+LBN 708,N2170,CE-N-2160,nebulae,-
+LBN 710,N1173,CE-N-1172,nebulae,-
+LBN 712,N917,CE-N-917,nebulae,-
+LBN 717,N2421,CE-N-2426,nebulae,-
+LBN 722,N1760,CE-N-1757,nebulae,-
+LBN 731,N2556,CE-N-2563,nebulae,-
+LBN 735,N2171,CE-N-2172,nebulae,-
+LBN 741,N944,CE-N-944,nebulae,-
+LBN 744,N216,CE-N-213,nebulae,-
+LBN 745,N1528,CE-N-1523,nebulae,-
+LBN 747,N2306,CE-N-2306,nebulae,-
+LBN 750,N269,CE-N-269,nebulae,-
+LBN 754,N122,CE-N-119,nebulae,-
+LBN 756,N47,CE-N-47,nebulae,California Nebula
+LBN 758,N888,CE-N-916,nebulae,omi Per Cloud
+LBN 767,N1410,CE-N-1408,nebulae,-
+LBN 768,N270,CE-N-268,nebulae,-
+LBN 769,N678,CE-N-672,nebulae,-
+LBN 771,N783,CE-N-786,nebulae,Maia Nebula
+LBN 778,N1447,CE-N-1436,nebulae,-
+LBN 780,N2307,CE-N-2297,nebulae,-
+LBN 781,N918,CE-N-906,nebulae,-
+LBN 782,N1165,CE-N-1167,nebulae,-
+LBN 784,N1643,CE-N-1635,nebulae,-
+LBN 786,N95,CE-N-95,nebulae,-
+LBN 795,N401,CE-N-400,nebulae,Flaming Star Nebula
+LBN 802,N2423,CE-N-2410,nebulae,-
+LBN 804,N1303,CE-N-1300,nebulae,-
+LBN 805,N517,CE-N-509,nebulae,-
+LBN 808,N1302,CE-N-1301,nebulae,-
+LBN 810,N1455,CE-N-1429,nebulae,-
+LBN 813,N1737,CE-N-1752,nebulae,-
+LBN 821,N2041,CE-N-2043,nebulae,-
+LBN 822,N31,CE-N-31,nebulae,Spaghetti Nebula
+LBN 826,N1753,CE-N-1753,nebulae,-
+LBN 826,SC2317,CE-SC-2453-O,star_clusters,-
+LBN 830,N1880,CE-N-1880,nebulae,-
+LBN 833,N1758,CE-N-1755,nebulae,Crab Nebula
+LBN 838,N297,CE-N-297,nebulae,-
+LBN 839,N30,CE-N-30,nebulae,-
+LBN 840,N1452,CE-N-1426,nebulae,-
+LBN 843,N1309,CE-N-1302,nebulae,-
+LBN 844,N382,CE-N-381,nebulae,Jellyfish Nebula
+LBN 846,N1450,CE-N-1452,nebulae,-
+LBN 849,N582,CE-N-584,nebulae,-
+LBN 854,SC758,CE-SC-745-O,star_clusters,-
+LBN 855,N2148,CE-N-2169,nebulae,-
+LBN 858,N1023,CE-N-1025,nebulae,-
+LBN 859,N1023,CE-N-1025,nebulae,-
+LBN 860,N841,CE-N-841,nebulae,-
+LBN 863,N400,CE-N-401,nebulae,Lower's Nebula
+LBN 867,N842,CE-N-842,nebulae,-
+LBN 868,N919,CE-N-912,nebulae,-
+LBN 869,N271,CE-N-272,nebulae,-
+LBN 873,N346,CE-N-344,nebulae,-
+LBN 875,N2172,CE-N-2171,nebulae,-
+LBN 876,N2173,CE-N-2170,nebulae,-
+LBN 877,N2560,CE-N-2550,nebulae,-
+LBN 898,N1504,CE-N-1501,nebulae,-
+LBN 901,N2046,CE-N-2017,nebulae,-
+LBN 903,G982,CE-G-961,galaxies,-
+LBN 904,N2428,CE-N-2393,nebulae,-
+LBN 911,N16,CE-N-16,nebulae,Christmas Tree Cluster
+LBN 913,N1915,CE-N-1912,nebulae,-
+LBN 914,N2319,CE-N-2314,nebulae,-
+LBN 916,N275,CE-N-275,nebulae,Cosmic Bat Nebula
+LBN 920,N2316,CE-N-2311,nebulae,Hubble's Nebula
+LBN 921,N1532,CE-N-1529,nebulae,-
+LBN 923,N1219,CE-N-1218,nebulae,Medusa Nebula
+LBN 938,N1509,CE-N-1507,nebulae,-
+LBN 939,N1414,CE-N-1450,nebulae,-
+LBN 944,N1795,CE-N-1793,nebulae,-
+LBN 946,N1417,CE-N-1449,nebulae,-
+LBN 948,N153,CE-N-151,nebulae,Rosette Nebula
+LBN 953,N133,CE-N-133,nebulae,Horsehead Background Nebula
+LBN 954,N1530,CE-N-1530,nebulae,-
+LBN 956,N421,CE-N-421,nebulae,-
+LBN 959,N139,CE-N-139,nebulae,Witch Head Nebula
+LBN 970,N518,CE-N-513,nebulae,-
+LBN 974,N246,CE-N-246,nebulae,Orion Nebula
+LBN 975,N1174,CE-N-1173,nebulae,De Mairan's Nebula
+LBN 977,N1138,CE-N-1126,nebulae,Lower Sword
+LBN 978,N2,CE-N-2,nebulae,Barnard's Loop
+LBN 979,N2313,CE-N-2291,nebulae,-
+LBN 983,N505,CE-N-514,nebulae,-
+LBN 994,N1736,CE-N-1749,nebulae,-
+LBN 996,N1623,CE-N-1631,nebulae,-
+LBN 997,N1647,CE-N-1644,nebulae,-
+LBN 998,N2312,CE-N-2290,nebulae,-
+LBN 1003,N139,CE-N-139,nebulae,Witch Head Nebula
+LBN 1012,N1304,CE-N-1303,nebulae,-
+LBN 1013,N2562,CE-N-2547,nebulae,-
+LBN 1014,N1363,CE-N-1362,nebulae,-
+LBN 1020,N1645,CE-N-1638,nebulae,-
+LBN 1027,N85,CE-N-85,nebulae,Seagull Nebula
+LBN 1030,N1364,CE-N-1361,nebulae,-
+LBN 1032,N1754,CE-N-1750,nebulae,-
+LBN 1035,N1646,CE-N-1636,nebulae,-
+LBN 1039,N1755,CE-N-1739,nebulae,-
+LBN 1041,N947,CE-N-946,nebulae,Thor's Helmet
+LBN 1046,N867,CE-N-867,nebulae,-
+LBN 1047,N193,CE-N-187,nebulae,-
+LBN 1048,N2174,CE-N-2161,nebulae,-
+LBN 1049,N40,CE-N-40,nebulae,-
+LBN 1050,N679,CE-N-673,nebulae,-
+LBN 1051,N1882,CE-N-1879,nebulae,-
+LBN 1052,N347,CE-N-338,nebulae,Dolphin Nebula
+LBN 1053,N1305,CE-N-1306,nebulae,-
+LBN 1059,N6,CE-N-5,nebulae,-
+LBN 1065,N448,CE-N-449,nebulae,Skull and Crossbones Nebula
+LBN 1077,N3,CE-N-3,nebulae,-
+LBN 1093,N78,CE-N-78,nebulae,-
+LBN 1099,N28,CE-N-28,nebulae,-
+LBN 1101,N213,CE-N-212,nebulae,-
+LBN 1109,N1418,CE-N-1447,nebulae,-
+LBN 1110,N710,CE-N-710,nebulae,-
+LBN 1111,N220,CE-N-220,nebulae,Rho Ophiuchi Nebula
+LBN 1113,N39,CE-N-39,nebulae,-
+LBN 1116,N120,CE-N-123,nebulae,-
+LBN 1121,N673,CE-N-679,nebulae,-
+LBN 1124,N907,CE-N-911,nebulae,-
+LBN 1125,N2164,CE-N-2168,nebulae,-

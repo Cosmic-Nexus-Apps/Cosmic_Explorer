@@ -1,0 +1,113 @@
+Designation,UID,ID,Dataset,Primary_Name
+M 1,N1758,CE-N-1755,nebulae,Crab Nebula
+M 2,SC263,CE-SC-244-G,star_clusters,Great Aquarius Globular
+M 3,SC56,CE-SC-56-G,star_clusters,-
+M 4,SC20,CE-SC-20-G,star_clusters,Cat's Eye Cluster
+M 5,SC70,CE-SC-66-G,star_clusters,The Rose Cluster
+M 6,SC62,CE-SC-59-O,star_clusters,Butterfly Cluster
+M 7,SC34,CE-SC-34-O,star_clusters,Ptolemy's Cluster
+M 8,N356,CE-N-356,nebulae,Lagoon Nebula
+M 9,SC887,CE-SC-757-G,star_clusters,-
+M 10,SC209,CE-SC-204-G,star_clusters,-
+M 11,SC223,CE-SC-214-O,star_clusters,Wild Duck Cluster
+M 12,SC140,CE-SC-139-G,star_clusters,-
+M 13,SC54,CE-SC-54-G,star_clusters,Hercules Globular Cluster
+M 14,SC734,CE-SC-734-G,star_clusters,-
+M 15,SC141,CE-SC-140-G,star_clusters,Pegasus Globular Cluster
+M 16,N243,CE-N-243,nebulae,Eagle Nebula
+M 16,SC243,CE-SC-242-O,star_clusters,Eagle Cluster
+M 17,N348,CE-N-340,nebulae,Omega Nebula
+M 17,SC105,CE-SC-106-O,star_clusters,Omega Cluster
+M 18,SC664,CE-SC-543-O,star_clusters,Black Swan Cluster
+M 19,SC338,CE-SC-311-G,star_clusters,-
+M 20,N700,CE-N-700,nebulae,Trifid Nebula
+M 20,SC179,CE-SC-180-O,star_clusters,Trifid Cluster
+M 21,SC663,CE-SC-542-O,star_clusters,-
+M 22,SC107,CE-SC-105-G,star_clusters,Sagittarius Cluster
+M 23,SC53,CE-SC-49-O,star_clusters,-
+M 25,SC380,CE-SC-380-O,star_clusters,-
+M 26,SC677,CE-SC-559-O,star_clusters,-
+M 27,N1486,CE-N-1484,nebulae,Dumbbell Nebula
+M 28,SC2088,CE-SC-1770-G,star_clusters,-
+M 29,SC2086,CE-SC-1768-O,star_clusters,Cooling Tower Cluster
+M 30,SC225,CE-SC-217-G,star_clusters,-
+M 31,G3,CE-G-3,galaxies,Andromeda Galaxy
+M 32,G99,CE-G-100,galaxies,Le Gentil
+M 33,G6,CE-G-6,galaxies,Triangulum Galaxy
+M 34,SC33,CE-SC-31-O,star_clusters,-
+M 35,SC30,CE-SC-30-O,star_clusters,Shoes Cluster
+M 36,SC365,CE-SC-349-O,star_clusters,Pinwheel Star Cluster
+M 37,SC136,CE-SC-135-O,star_clusters,Salt and Pepper Cluster
+M 38,SC193,CE-SC-184-O,star_clusters,Starfish Cluster
+M 39,SC39,CE-SC-38-O,star_clusters,-
+M 41,SC120,CE-SC-113-O,star_clusters,Little Beehive Cluster
+M 42,N246,CE-N-246,nebulae,Orion Nebula
+M 42,SC112,CE-SC-112-O,star_clusters,Great Orion Nebula
+M 43,N1174,CE-N-1173,nebulae,De Mairan's Nebula
+M 44,SC4,CE-SC-4-O,star_clusters,Beehive Cluster
+M 45,SC6,CE-SC-6-O,star_clusters,Pleiades
+M 46,SC36,CE-SC-35-O,star_clusters,-
+M 47,SC40,CE-SC-40-O,star_clusters,-
+M 48,SC21,CE-SC-21-O,star_clusters,-
+M 49,G41,CE-G-42,galaxies,-
+M 50,SC87,CE-SC-82-O,star_clusters,Heart-Shaped Cluster
+M 51,G50,CE-G-51,galaxies,Whirlpool Galaxy
+M 52,SC175,CE-SC-165-O,star_clusters,Scorpion Cluster
+M 53,SC383,CE-SC-382-G,star_clusters,-
+M 54,SC1030,CE-SC-904-G,star_clusters,-
+M 55,SC122,CE-SC-115-G,star_clusters,-
+M 56,SC2093,CE-SC-1775-G,star_clusters,-
+M 57,N2320,CE-N-2315,nebulae,Ring Nebula
+M 58,G119,CE-G-120,galaxies,-
+M 59,G234,CE-G-235,galaxies,-
+M 60,G101,CE-G-102,galaxies,-
+M 61,G96,CE-G-97,galaxies,Swell Galaxy
+M 62,SC306,CE-SC-283-G,star_clusters,-
+M 63,G44,CE-G-45,galaxies,Sunflower Galaxy
+M 64,G68,CE-G-69,galaxies,Black Eye Galaxy
+M 65,G122,CE-G-123,galaxies,-
+M 66,G109,CE-G-110,galaxies,-
+M 67,SC12,CE-SC-12-O,star_clusters,King Cobra Cluster
+M 68,SC490,CE-SC-441-G,star_clusters,-
+M 69,SC1583,CE-SC-1406-G,star_clusters,-
+M 70,SC1037,CE-SC-912-G,star_clusters,-
+M 71,SC423,CE-SC-387-G,star_clusters,-
+M 72,SC2455,CE-SC-2283-G,star_clusters,-
+M 74,G43,CE-G-44,galaxies,Phantom Galaxy
+M 75,SC2091,CE-SC-1773-G,star_clusters,-
+M 76,N2180,CE-N-2174,nebulae,Little Dumbbell Nebula
+M 77,G80,CE-G-81,galaxies,Cetus A
+M 78,N1256,CE-N-1255,nebulae,Casper the Friendly Ghost Nebula
+M 78,SC1213,CE-SC-1207-O,star_clusters,-
+M 79,SC372,CE-SC-356-G,star_clusters,-
+M 80,SC729,CE-SC-689-G,star_clusters,-
+M 81,G17,CE-G-17,galaxies,Bode's Galaxy
+M 82,G53,CE-G-54,galaxies,Cigar Galaxy
+M 83,G27,CE-G-27,galaxies,Southern Pinwheel Galaxy
+M 84,G77,CE-G-78,galaxies,-
+M 85,G100,CE-G-101,galaxies,-
+M 86,G40,CE-G-41,galaxies,-
+M 87,G92,CE-G-93,galaxies,Virgo Galaxy
+M 88,G142,CE-G-143,galaxies,-
+M 89,G84,CE-G-85,galaxies,Eye Galaxy
+M 90,G114,CE-G-115,galaxies,-
+M 91,G135,CE-G-136,galaxies,-
+M 92,SC137,CE-SC-136-G,star_clusters,Northern Hercules Cluster
+M 93,SC71,CE-SC-67-O,star_clusters,-
+M 94,G28,CE-G-28,galaxies,Cat's Eye Galaxy
+M 95,G113,CE-G-114,galaxies,-
+M 96,G88,CE-G-89,galaxies,-
+M 97,N2096,CE-N-2092,nebulae,Owl Nebula
+M 98,G150,CE-G-151,galaxies,-
+M 99,G120,CE-G-121,galaxies,Coma Pinwheel Galaxy
+M 100,G90,CE-G-91,galaxies,Mirror Galaxy
+M 101,G14,CE-G-14,galaxies,Pinwheel Galaxy
+M 102,G196,CE-G-197,galaxies,Spindle Galaxy
+M 103,SC1380,CE-SC-1202-O,star_clusters,-
+M 104,G158,CE-G-159,galaxies,Sombrero Galaxy
+M 105,G164,CE-G-165,galaxies,-
+M 106,G32,CE-G-32,galaxies,-
+M 107,SC310,CE-SC-287-G,star_clusters,-
+M 108,G141,CE-G-142,galaxies,Surfboard Galaxy
+M 109,G155,CE-G-156,galaxies,Vacuum Cleaner Galaxy
+M 110,G31,CE-G-31,galaxies,-

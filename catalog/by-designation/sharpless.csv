@@ -1,0 +1,322 @@
+Designation,UID,ID,Dataset,Primary_Name
+Sh2 1,N78,CE-N-78,nebulae,-
+Sh2 2,N340,CE-N-347,nebulae,-
+Sh2 3,N1299,CE-N-1307,nebulae,-
+Sh2 4,N2026,CE-N-2040,nebulae,-
+Sh2 5,N151,CE-N-153,nebulae,-
+Sh2 6,N2163,CE-N-2155,nebulae,-
+Sh2 7,N28,CE-N-28,nebulae,-
+Sh2 8,N304,CE-N-304,nebulae,-
+Sh2 9,N213,CE-N-212,nebulae,-
+Sh2 10,N341,CE-N-348,nebulae,-
+Sh2 11,N187,CE-N-193,nebulae,-
+Sh2 12,N120,CE-N-123,nebulae,-
+Sh2 13,N508,CE-N-519,nebulae,-
+Sh2 14,N2401,CE-N-2428,nebulae,-
+Sh2 15,N673,CE-N-679,nebulae,-
+Sh2 16,N907,CE-N-911,nebulae,-
+Sh2 17,N763,CE-N-766,nebulae,-
+Sh2 18,N2164,CE-N-2168,nebulae,-
+Sh2 19,N1300,CE-N-1304,nebulae,-
+Sh2 20,N1433,CE-N-1448,nebulae,-
+Sh2 21,N2027,CE-N-2038,nebulae,-
+Sh2 22,N342,CE-N-345,nebulae,-
+Sh2 23,N416,CE-N-420,nebulae,-
+Sh2 24,N674,CE-N-677,nebulae,-
+Sh2 25,N356,CE-N-356,nebulae,Lagoon Nebula
+Sh2 26,N908,CE-N-918,nebulae,-
+Sh2 27,N4,CE-N-4,nebulae,Zeta Ophiuchi Nebula
+Sh2 28,N509,CE-N-516,nebulae,-
+Sh2 29,N510,CE-N-517,nebulae,-
+Sh2 30,N700,CE-N-700,nebulae,Trifid Nebula
+Sh2 31,N1637,CE-N-1641,nebulae,-
+Sh2 32,N1638,CE-N-1640,nebulae,-
+Sh2 33,N578,CE-N-582,nebulae,-
+Sh2 34,N188,CE-N-191,nebulae,-
+Sh2 35,N909,CE-N-919,nebulae,-
+Sh2 36,N455,CE-N-457,nebulae,-
+Sh2 37,N910,CE-N-903,nebulae,-
+Sh2 38,N2298,CE-N-2307,nebulae,-
+Sh2 39,N2299,CE-N-2309,nebulae,-
+Sh2 40,N1128,CE-N-1136,nebulae,-
+Sh2 41,N189,CE-N-192,nebulae,-
+Sh2 42,N2300,CE-N-2308,nebulae,-
+Sh2 43,N1129,CE-N-1137,nebulae,-
+Sh2 44,N343,CE-N-346,nebulae,-
+Sh2 45,N348,CE-N-340,nebulae,Omega Nebula
+Sh2 46,N764,CE-N-768,nebulae,-
+Sh2 47,N2028,CE-N-2018,nebulae,-
+Sh2 48,N1434,CE-N-1451,nebulae,-
+Sh2 49,N243,CE-N-243,nebulae,Eagle Nebula
+Sh2 50,N579,CE-N-583,nebulae,-
+Sh2 51,N580,CE-N-581,nebulae,-
+Sh2 52,N2402,CE-N-2406,nebulae,-
+Sh2 53,N1130,CE-N-1138,nebulae,-
+Sh2 54,N88,CE-N-88,nebulae,-
+Sh2 55,N2029,CE-N-2041,nebulae,-
+Sh2 56,N1746,CE-N-1751,nebulae,-
+Sh2 57,N2403,CE-N-2429,nebulae,-
+Sh2 58,N1639,CE-N-1642,nebulae,-
+Sh2 59,N911,CE-N-922,nebulae,-
+Sh2 60,N912,CE-N-921,nebulae,-
+Sh2 61,N2404,CE-N-2399,nebulae,-
+Sh2 62,N2165,CE-N-2173,nebulae,-
+Sh2 63,N378,CE-N-379,nebulae,-
+Sh2 64,N765,CE-N-769,nebulae,-
+Sh2 65,N1747,CE-N-1743,nebulae,-
+Sh2 66,N1640,CE-N-1643,nebulae,-
+Sh2 67,N1435,CE-N-1434,nebulae,-
+Sh2 68,N1641,CE-N-1633,nebulae,-
+Sh2 69,N913,CE-N-905,nebulae,-
+Sh2 70,N2030,CE-N-2035,nebulae,-
+Sh2 71,N2301,CE-N-2296,nebulae,-
+Sh2 72,N766,CE-N-761,nebulae,-
+Sh2 73,N235,CE-N-236,nebulae,-
+Sh2 74,N2302,CE-N-2293,nebulae,-
+Sh2 75,N1436,CE-N-1431,nebulae,-
+Sh2 76,N1748,CE-N-1742,nebulae,-
+Sh2 77,N1642,CE-N-1634,nebulae,-
+Sh2 78,N1301,CE-N-1299,nebulae,-
+Sh2 79,N511,CE-N-508,nebulae,-
+Sh2 80,N2405,CE-N-2396,nebulae,-
+Sh2 81,N1437,CE-N-1435,nebulae,-
+Sh2 82,N1524,CE-N-1527,nebulae,-
+Sh2 83,N2406,CE-N-2427,nebulae,-
+Sh2 84,N1131,CE-N-1127,nebulae,-
+Sh2 85,N1876,CE-N-1876,nebulae,-
+Sh2 86,N512,CE-N-507,nebulae,-
+Sh2 87,N1438,CE-N-1454,nebulae,-
+Sh2 88,N767,CE-N-770,nebulae,-
+Sh2 88B,SC2412,CE-SC-2462-O,star_clusters,-
+Sh2 89,N2031,CE-N-2022,nebulae,-
+Sh2 90,N1877,CE-N-1872,nebulae,-
+Sh2 91,N329,CE-N-343,nebulae,-
+Sh2 92,N417,CE-N-417,nebulae,-
+Sh2 93,N2544,CE-N-2549,nebulae,-
+Sh2 94,N768,CE-N-764,nebulae,-
+Sh2 95,N2545,CE-N-2548,nebulae,-
+Sh2 96,N769,CE-N-765,nebulae,-
+Sh2 97,N1439,CE-N-1445,nebulae,-
+Sh2 98,N1132,CE-N-1129,nebulae,-
+Sh2 99,N2032,CE-N-2023,nebulae,-
+Sh2 100,N2166,CE-N-2165,nebulae,-
+Sh2 101,N914,CE-N-910,nebulae,-
+Sh2 102,N513,CE-N-512,nebulae,-
+Sh2 103,N51,CE-N-49,nebulae,Cygnus Loop
+Sh2 104,N1749,CE-N-1748,nebulae,-
+Sh2 105,N1026,CE-N-1023,nebulae,Crescent Nebula
+Sh2 106,N2232,CE-N-2228,nebulae,Celestial Snow Angel
+Sh2 107,N2033,CE-N-2033,nebulae,-
+Sh2 108,N50,CE-N-51,nebulae,-
+Sh2 109,N1,CE-N-1,nebulae,-
+Sh2 110,N418,CE-N-419,nebulae,-
+Sh2 111,N190,CE-N-190,nebulae,-
+Sh2 112,N1133,CE-N-1134,nebulae,-
+Sh2 113,N1134,CE-N-1135,nebulae,-
+Sh2 114,N1525,CE-N-1526,nebulae,-
+Sh2 115,N419,CE-N-418,nebulae,-
+Sh2 116,N2407,CE-N-2409,nebulae,-
+Sh2 117,N11,CE-N-11,nebulae,-
+Sh2 118,N5,CE-N-6,nebulae,-
+Sh2 119,N60,CE-N-60,nebulae,Clamshell Nebula
+Sh2 120,N2546,CE-N-2558,nebulae,-
+Sh2 121,N2547,CE-N-2559,nebulae,-
+Sh2 122,N514,CE-N-515,nebulae,-
+Sh2 123,N1251,CE-N-1251,nebulae,-
+Sh2 124,N268,CE-N-271,nebulae,-
+Sh2 125,N1526,CE-N-1522,nebulae,-
+Sh2 126,N101,CE-N-101,nebulae,-
+Sh2 127,N2408,CE-N-2419,nebulae,-
+Sh2 128,N2548,CE-N-2543,nebulae,-
+Sh2 129,N73,CE-N-73,nebulae,Flying Bat Nebula
+Sh2 130,N2303,CE-N-2302,nebulae,-
+Sh2 131,N107,CE-N-107,nebulae,-
+Sh2 132,N148,CE-N-148,nebulae,Lion Nebula
+Sh2 133,N214,CE-N-215,nebulae,-
+Sh2 134,N68,CE-N-68,nebulae,-
+Sh2 135,N1135,CE-N-1132,nebulae,-
+Sh2 136,N2034,CE-N-2030,nebulae,-
+Sh2 137,N191,CE-N-188,nebulae,-
+Sh2 138,N2549,CE-N-2556,nebulae,-
+Sh2 139,N1440,CE-N-1443,nebulae,-
+Sh2 140,N675,CE-N-676,nebulae,-
+Sh2 141,N2035,CE-N-2031,nebulae,-
+Sh2 142,N676,CE-N-670,nebulae,Wizard Nebula
+Sh2 143,N2167,CE-N-2164,nebulae,-
+Sh2 144,N2168,CE-N-2163,nebulae,-
+Sh2 145,N192,CE-N-189,nebulae,-
+Sh2 146,N2409,CE-N-2415,nebulae,-
+Sh2 147,N2410,CE-N-2416,nebulae,-
+Sh2 148,N2411,CE-N-2417,nebulae,-
+Sh2 149,N2550,CE-N-2557,nebulae,-
+Sh2 150,N75,CE-N-75,nebulae,Carina Nebula
+Sh2 151,N915,CE-N-907,nebulae,-
+Sh2 152,N2412,CE-N-2418,nebulae,-
+Sh2 153,N2036,CE-N-2032,nebulae,-
+Sh2 154,N344,CE-N-342,nebulae,-
+Sh2 155,N345,CE-N-341,nebulae,-
+Sh2 156,N2413,CE-N-2395,nebulae,-
+Sh2 157,N152,CE-N-152,nebulae,Lobster Claw Nebula
+Sh2 158,N1415,CE-N-1444,nebulae,Northern Lagoon Nebula
+Sh2 159,N1750,CE-N-1747,nebulae,-
+Sh2 160,N215,CE-N-216,nebulae,-
+Sh2 161,N379,CE-N-378,nebulae,-
+Sh2 162,N730,CE-N-729,nebulae,Bubble Nebula
+Sh2 163,N1441,CE-N-1440,nebulae,-
+Sh2 164,N2304,CE-N-2301,nebulae,-
+Sh2 165,N1442,CE-N-1441,nebulae,-
+Sh2 166,N1443,CE-N-1442,nebulae,-
+Sh2 167,N2414,CE-N-2404,nebulae,-
+Sh2 168,N1751,CE-N-1746,nebulae,-
+Sh2 169,N2037,CE-N-2029,nebulae,-
+Sh2 170,N916,CE-N-908,nebulae,-
+Sh2 171,N36,CE-N-36,nebulae,Question Mark Nebula
+Sh2 172,N2551,CE-N-2553,nebulae,-
+Sh2 173,N677,CE-N-675,nebulae,-
+Sh2 174,N1444,CE-N-1432,nebulae,-
+Sh2 175,N2415,CE-N-2394,nebulae,-
+Sh2 176,N1445,CE-N-1433,nebulae,-
+Sh2 177,N515,CE-N-511,nebulae,-
+Sh2 178,N9,CE-N-10,nebulae,-
+Sh2 179,N2552,CE-N-2551,nebulae,-
+Sh2 180,N1136,CE-N-1130,nebulae,-
+Sh2 181,N1137,CE-N-1131,nebulae,-
+Sh2 182,N2416,CE-N-2412,nebulae,-
+Sh2 183,N581,CE-N-579,nebulae,-
+Sh2 184,N414,CE-N-416,nebulae,Pacman Nebula
+Sh2 185,N212,CE-N-214,nebulae,Ghost of Cassiopeia
+Sh2 186,N2553,CE-N-2554,nebulae,-
+Sh2 187,N1446,CE-N-1439,nebulae,-
+Sh2 188,N1307,CE-N-1298,nebulae,Shrimp Nebula
+Sh2 189,N2417,CE-N-2408,nebulae,-
+Sh2 190,N90,CE-N-89,nebulae,Heart Nebula
+Sh2 191,N2418,CE-N-2407,nebulae,-
+Sh2 192,N2554,CE-N-2555,nebulae,-
+Sh2 193,N2419,CE-N-2414,nebulae,-
+Sh2 194,N2420,CE-N-2413,nebulae,-
+Sh2 195,N2305,CE-N-2300,nebulae,-
+Sh2 196,N2169,CE-N-2162,nebulae,-
+Sh2 197,N2038,CE-N-2025,nebulae,-
+Sh2 198,N1527,CE-N-1525,nebulae,-
+Sh2 199,N145,CE-N-145,nebulae,Soul Nebula
+Sh2 200,N1878,CE-N-1873,nebulae,-
+Sh2 201,N2039,CE-N-2028,nebulae,-
+Sh2 202,N58,CE-N-58,nebulae,-
+Sh2 203,N456,CE-N-456,nebulae,-
+Sh2 204,N516,CE-N-510,nebulae,-
+Sh2 205,N121,CE-N-121,nebulae,-
+Sh2 206,N420,CE-N-422,nebulae,-
+Sh2 207,N2170,CE-N-2160,nebulae,-
+Sh2 208,N2555,CE-N-2562,nebulae,-
+Sh2 209,N1173,CE-N-1172,nebulae,-
+Sh2 210,N917,CE-N-917,nebulae,-
+Sh2 211,N2421,CE-N-2426,nebulae,-
+Sh2 212,N2040,CE-N-2021,nebulae,-
+Sh2 213,N2556,CE-N-2563,nebulae,-
+Sh2 214,N2171,CE-N-2172,nebulae,-
+Sh2 215,N2422,CE-N-2425,nebulae,-
+Sh2 216,N216,CE-N-213,nebulae,-
+Sh2 217,N1528,CE-N-1523,nebulae,-
+Sh2 218,N269,CE-N-269,nebulae,-
+Sh2 219,N2306,CE-N-2306,nebulae,-
+Sh2 220,N47,CE-N-47,nebulae,California Nebula
+Sh2 221,N122,CE-N-119,nebulae,-
+Sh2 222,N1879,CE-N-1870,nebulae,-
+Sh2 223,N270,CE-N-268,nebulae,-
+Sh2 224,N678,CE-N-672,nebulae,-
+Sh2 225,N1447,CE-N-1436,nebulae,-
+Sh2 226,N2307,CE-N-2297,nebulae,-
+Sh2 227,N918,CE-N-906,nebulae,-
+Sh2 228,N1643,CE-N-1635,nebulae,-
+Sh2 229,N296,CE-N-296,nebulae,-
+Sh2 230,N116,CE-N-120,nebulae,-
+Sh2 231,N1302,CE-N-1301,nebulae,-
+Sh2 232,N517,CE-N-509,nebulae,-
+Sh2 233,N2423,CE-N-2410,nebulae,-
+Sh2 234,N1303,CE-N-1300,nebulae,-
+Sh2 235,N1448,CE-N-1437,nebulae,-
+Sh2 235,SC926,CE-SC-925-O,star_clusters,-
+Sh2 235B,SC694,CE-SC-699-O,star_clusters,-
+Sh2 236,N285,CE-N-285,nebulae,Tadpole Nebula
+Sh2 237,N1752,CE-N-1741,nebulae,-
+Sh2 238,N2557,CE-N-2539,nebulae,-
+Sh2 239,N2041,CE-N-2043,nebulae,-
+Sh2 240,N31,CE-N-31,nebulae,Spaghetti Nebula
+Sh2 241,N1449,CE-N-1438,nebulae,-
+Sh2 242,N1753,CE-N-1753,nebulae,-
+Sh2 242,SC2317,CE-SC-2453-O,star_clusters,-
+Sh2 243,N1880,CE-N-1880,nebulae,-
+Sh2 244,N1758,CE-N-1755,nebulae,Crab Nebula
+Sh2 245,N30,CE-N-30,nebulae,-
+Sh2 246,N297,CE-N-297,nebulae,-
+Sh2 247,N1309,CE-N-1302,nebulae,-
+Sh2 248,N382,CE-N-381,nebulae,Jellyfish Nebula
+Sh2 249,N642,CE-N-642,nebulae,-
+Sh2 250,N1450,CE-N-1452,nebulae,-
+Sh2 251,N582,CE-N-584,nebulae,-
+Sh2-252A,N1252,CE-N-1252,nebulae,-
+Sh2-252C,N2381,CE-N-2376,nebulae,-
+Sh2-252D,N2310,CE-N-2305,nebulae,-
+Sh2-252E,N2426,CE-N-2424,nebulae,-
+Sh2 253,N2043,CE-N-2037,nebulae,-
+Sh2 254,N1308,CE-N-1305,nebulae,-
+Sh2 255,N2092,CE-N-2089,nebulae,-
+Sh2-255 Complex,N1023,CE-N-1025,nebulae,-
+Sh2 256,N1916,CE-N-1914,nebulae,-
+Sh2 257,N1023,CE-N-1025,nebulae,-
+Sh2 258,N2558,CE-N-2561,nebulae,-
+Sh2 259,N2424,CE-N-2421,nebulae,-
+Sh2 260,N841,CE-N-841,nebulae,-
+Sh2 261,N400,CE-N-401,nebulae,Lower's Nebula
+Sh2 262,N919,CE-N-912,nebulae,-
+Sh2 263,N842,CE-N-842,nebulae,-
+Sh2 264,N7,CE-N-7,nebulae,Meissa Ring
+Sh2 265,N271,CE-N-272,nebulae,-
+Sh2 266,N2559,CE-N-2546,nebulae,-
+Sh2 267,N2172,CE-N-2171,nebulae,-
+Sh2 268,N346,CE-N-344,nebulae,-
+Sh2 269,N2173,CE-N-2170,nebulae,-
+Sh2 270,N2560,CE-N-2550,nebulae,-
+Sh2 271,N2425,CE-N-2422,nebulae,-
+Sh2 272,N2425,CE-N-2422,nebulae,-
+Sh2 273,N16,CE-N-16,nebulae,Christmas Tree Cluster
+Sh2 274,N1644,CE-N-1632,nebulae,-
+Sh2 275,N153,CE-N-151,nebulae,Rosette Nebula
+Sh2 276,N2,CE-N-2,nebulae,Barnard's Loop
+Sh2 277,N123,CE-N-122,nebulae,-
+Sh2 278,N421,CE-N-421,nebulae,-
+Sh2 279,N920,CE-N-913,nebulae,-
+Sh2 280,N518,CE-N-513,nebulae,-
+Sh2 281,N246,CE-N-246,nebulae,Orion Nebula
+Sh2 282,N583,CE-N-580,nebulae,-
+Sh2 283,N2308,CE-N-2304,nebulae,-
+Sh2 284,N505,CE-N-514,nebulae,-
+Sh2 285,N2561,CE-N-2560,nebulae,-
+Sh2 286,N1881,CE-N-1878,nebulae,-
+Sh2 287,N1304,CE-N-1303,nebulae,-
+Sh2 287C,SC2865,CE-SC-2874-O,star_clusters,-
+Sh2 288,N2562,CE-N-2547,nebulae,-
+Sh2 289,N1363,CE-N-1362,nebulae,-
+Sh2 290,N1034,CE-N-1033,nebulae,-
+Sh2 291,N1645,CE-N-1638,nebulae,-
+Sh2 292,N866,CE-N-866,nebulae,-
+Sh2 293,N1364,CE-N-1361,nebulae,-
+Sh2 294,N1754,CE-N-1750,nebulae,-
+Sh2 295,N1646,CE-N-1636,nebulae,-
+Sh2 297,N1755,CE-N-1739,nebulae,-
+Sh2 298,N947,CE-N-946,nebulae,Thor's Helmet
+Sh2 299,N2563,CE-N-2552,nebulae,-
+Sh2 300,N2309,CE-N-2298,nebulae,-
+Sh2 301,N1529,CE-N-1524,nebulae,-
+Sh2 302,N867,CE-N-867,nebulae,-
+Sh2 303,N193,CE-N-187,nebulae,-
+Sh2 304,N40,CE-N-40,nebulae,-
+Sh2 305,N2174,CE-N-2161,nebulae,-
+Sh2 306,N679,CE-N-673,nebulae,-
+Sh2 307,N1882,CE-N-1879,nebulae,-
+Sh2 308,N347,CE-N-338,nebulae,Dolphin Nebula
+Sh2 309,N1305,CE-N-1306,nebulae,-
+Sh2 310,N6,CE-N-5,nebulae,-
+Sh2 311,N457,CE-N-454,nebulae,-
+Sh2 312,N3,CE-N-3,nebulae,-
+Sh2 313,N1306,CE-N-1297,nebulae,-
